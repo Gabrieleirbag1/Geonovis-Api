@@ -14,29 +14,36 @@ app.get('/', (req, res) => {
   res.send('Welcome to the Geonovis API!');
 });
 
-app.get('/api/geojson/:region', (req, res) => {
-  const region = req.params.region;
-  
-  const filePath = path.join(__dirname, '..', 'assets', 'geo', region, `${region}.geo.json`);
-  // Check if file exists before trying to send it
+function sendRegionFile(region, extension, res) {
+  const fileName = `${region}.${extension}`;
+  const filePath = path.join(__dirname, '..', 'assets', 'geo', region, fileName);
+
   fs.access(filePath, fs.constants.F_OK, (err) => {
     if (err) {
       console.error(`Error: File not found - ${filePath}`);
-      return res.status(404).json({ 
+      return res.status(404).json({
         error: 'Region file not found',
-        details: `Could not find ${region}.geojson in assets/${region}/`
+        details: `Could not find ${fileName} in assets/${region}/`
       });
     }
-    
+
     res.sendFile(filePath, (err) => {
       if (err) {
         console.error(`Error sending file: ${err.message}`);
         res.status(err.status || 500).end();
       } else {
-        console.log(`Sent: ${region}.geojson`);
+        console.log(`Sent: ${fileName}`);
       }
     });
   });
+}
+
+app.get('/api/geojson/:region', (req, res) => {
+  sendRegionFile(req.params.region, 'geo.json', res);
+});
+
+app.get('/api/regions/:region', (req, res) => {
+  sendRegionFile(req.params.region, 'json', res);
 });
 
 app.listen(port, () => {
