@@ -53,6 +53,7 @@ app.get('/api/geocodes', (req, res) => {
   geocodeService.getMergedGeocodes(regionList, geocodesBasePath)
     .then(uniqueGeocodes => {
       res.json(uniqueGeocodes);
+      console.log(`Provided geocodes for regions: ${regionList.join(', ')}`);
     })
     .catch(err => {
       console.error(`Error processing geocodes: ${err.message}`);
