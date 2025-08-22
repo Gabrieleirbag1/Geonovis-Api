@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
 app.get('/api/geojson/:region', (req, res) => {
   const region = req.params.region;
   
-  const filePath = path.join(__dirname, '..', 'assets', region, `${region}.geo.json`);
+  const filePath = path.join(__dirname, '..', 'assets', 'geo', region, `${region}.geo.json`);
   // Check if file exists before trying to send it
   fs.access(filePath, fs.constants.F_OK, (err) => {
     if (err) {
