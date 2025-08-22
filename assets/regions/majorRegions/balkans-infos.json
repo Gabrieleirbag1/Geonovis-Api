@@ -1,0 +1,242 @@
+[
+  {
+    "flag": "rs",
+    "country": {
+      "en": "Serbia",
+      "fr": "Serbie"
+    },
+    "capital": {
+      "en": [
+        "Belgrade"
+      ],
+      "fr": [
+        "Belgrade"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hr",
+    "country": {
+      "en": "Croatia",
+      "fr": "Croatie"
+    },
+    "capital": {
+      "en": [
+        "Zagreb"
+      ],
+      "fr": [
+        "Zagreb"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ba",
+    "country": {
+      "en": "Bosnia and Herzegovina",
+      "fr": "Bosnie-Herzégovine"
+    },
+    "capital": {
+      "en": [
+        "Sarajevo"
+      ],
+      "fr": [
+        "Sarajevo"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "me",
+    "country": {
+      "en": "Montenegro",
+      "fr": "Monténégro"
+    },
+    "capital": {
+      "en": [
+        "Podgorica"
+      ],
+      "fr": [
+        "Podgorica"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "al",
+    "country": {
+      "en": "Albania",
+      "fr": "Albanie"
+    },
+    "capital": {
+      "en": [
+        "Tirana"
+      ],
+      "fr": [
+        "Tirana"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mk",
+    "country": {
+      "en": "North Macedonia",
+      "fr": "Macédoine du Nord"
+    },
+    "capital": {
+      "en": [
+        "Skopje"
+      ],
+      "fr": [
+        "Skopje"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "xk",
+    "country": {
+      "en": "Kosovo",
+      "fr": "Kosovo"
+    },
+    "capital": {
+      "en": [
+        "Pristina"
+      ],
+      "fr": [
+        "Pristina"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bg",
+    "country": {
+      "en": "Bulgaria",
+      "fr": "Bulgarie"
+    },
+    "capital": {
+      "en": [
+        "Sofia"
+      ],
+      "fr": [
+        "Sofia"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gr",
+    "country": {
+      "en": "Greece",
+      "fr": "Grèce"
+    },
+    "capital": {
+      "en": [
+        "Athens"
+      ],
+      "fr": [
+        "Athènes"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "si",
+    "country": {
+      "en": "Slovenia",
+      "fr": "Slovénie"
+    },
+    "capital": {
+      "en": [
+        "Ljubljana"
+      ],
+      "fr": [
+        "Ljubljana"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ro",
+    "country": {
+      "en": "Romania",
+      "fr": "Roumanie"
+    },
+    "capital": {
+      "en": [
+        "Bucharest"
+      ],
+      "fr": [
+        "Bucarest"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tr",
+    "country": {
+      "en": "Turkey",
+      "fr": "Turquie"
+    },
+    "capital": {
+      "en": [
+        "Ankara"
+      ],
+      "fr": [
+        "Ankara"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  }
+]

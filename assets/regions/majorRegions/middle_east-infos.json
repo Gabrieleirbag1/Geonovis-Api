@@ -1,0 +1,324 @@
+[
+  {
+    "flag": "sa",
+    "country": {
+      "en": "Saudi Arabia",
+      "fr": "Arabie Saoudite"
+    },
+    "capital": {
+      "en": [
+        "Riyadh"
+      ],
+      "fr": [
+        "Riyadh"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ir",
+    "country": {
+      "en": "Iran",
+      "fr": "Iran"
+    },
+    "capital": {
+      "en": [
+        "Tehran"
+      ],
+      "fr": [
+        "Téhéran"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "iq",
+    "country": {
+      "en": "Iraq",
+      "fr": "Irak"
+    },
+    "capital": {
+      "en": [
+        "Baghdad"
+      ],
+      "fr": [
+        "Bagdad"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sy",
+    "country": {
+      "en": "Syria",
+      "fr": "Syrie"
+    },
+    "capital": {
+      "en": [
+        "Damascus"
+      ],
+      "fr": [
+        "Damas"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "jo",
+    "country": {
+      "en": "Jordan",
+      "fr": "Jordanie"
+    },
+    "capital": {
+      "en": [
+        "Amman"
+      ],
+      "fr": [
+        "Amman"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lb",
+    "country": {
+      "en": "Lebanon",
+      "fr": "Liban"
+    },
+    "capital": {
+      "en": [
+        "Beirut"
+      ],
+      "fr": [
+        "Beyrouth"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "il",
+    "country": {
+      "en": "Israel",
+      "fr": "Israël"
+    },
+    "capital": {
+      "en": [
+        "Jerusalem"
+      ],
+      "fr": [
+        "Jérusalem"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ps",
+    "country": {
+      "en": "Palestine",
+      "fr": "Palestine"
+    },
+    "capital": {
+      "en": [
+        "Ramallah",
+        "East Jerusalem"
+      ],
+      "fr": [
+        "Ramallah",
+        "Jérusalem-Est"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tr",
+    "country": {
+      "en": "Turkey",
+      "fr": "Turquie"
+    },
+    "capital": {
+      "en": [
+        "Ankara"
+      ],
+      "fr": [
+        "Ankara"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "eg",
+    "country": {
+      "en": "Egypt",
+      "fr": "Égypte"
+    },
+    "capital": {
+      "en": [
+        "Cairo"
+      ],
+      "fr": [
+        "Le Caire"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ae",
+    "country": {
+      "en": "United Arab Emirates",
+      "fr": "Émirats arabes unis"
+    },
+    "capital": {
+      "en": [
+        "Abu Dhabi"
+      ],
+      "fr": [
+        "Abou Dabi"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "qa",
+    "country": {
+      "en": "Qatar",
+      "fr": "Qatar"
+    },
+    "capital": {
+      "en": [
+        "Doha"
+      ],
+      "fr": [
+        "Doha"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "om",
+    "country": {
+      "en": "Oman",
+      "fr": "Oman"
+    },
+    "capital": {
+      "en": [
+        "Muscat"
+      ],
+      "fr": [
+        "Muscat"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ye",
+    "country": {
+      "en": "Yemen",
+      "fr": "Yémen"
+    },
+    "capital": {
+      "en": [
+        "Sana'a"
+      ],
+      "fr": [
+        "Sanaa"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kw",
+    "country": {
+      "en": "Kuwait",
+      "fr": "Koweït"
+    },
+    "capital": {
+      "en": [
+        "Kuwait City"
+      ],
+      "fr": [
+        "Koweït City"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bh",
+    "country": {
+      "en": "Bahrain",
+      "fr": "Bahreïn"
+    },
+    "capital": {
+      "en": [
+        "Manama"
+      ],
+      "fr": [
+        "Manama"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  }
+]

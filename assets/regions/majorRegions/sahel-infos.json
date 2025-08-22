@@ -1,0 +1,182 @@
+[
+  {
+    "flag": "mr",
+    "country": {
+      "en": "Mauritania",
+      "fr": "Mauritanie"
+    },
+    "capital": {
+      "en": [
+        "Nouakchott"
+      ],
+      "fr": [
+        "Nouakchott"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ml",
+    "country": {
+      "en": "Mali",
+      "fr": "Mali"
+    },
+    "capital": {
+      "en": [
+        "Bamako"
+      ],
+      "fr": [
+        "Bamako"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ne",
+    "country": {
+      "en": "Niger",
+      "fr": "Niger"
+    },
+    "capital": {
+      "en": [
+        "Niamey"
+      ],
+      "fr": [
+        "Niamey"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "td",
+    "country": {
+      "en": "Chad",
+      "fr": "Tchad"
+    },
+    "capital": {
+      "en": [
+        "N'Djamena"
+      ],
+      "fr": [
+        "N'Djamena"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sd",
+    "country": {
+      "en": "Sudan",
+      "fr": "Soudan"
+    },
+    "capital": {
+      "en": [
+        "Khartoum"
+      ],
+      "fr": [
+        "Khartoum"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bf",
+    "country": {
+      "en": "Burkina Faso",
+      "fr": "Burkina Faso"
+    },
+    "capital": {
+      "en": [
+        "Ouagadougou"
+      ],
+      "fr": [
+        "Ouagadougou"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sn",
+    "country": {
+      "en": "Senegal",
+      "fr": "Sénégal"
+    },
+    "capital": {
+      "en": [
+        "Dakar"
+      ],
+      "fr": [
+        "Dakar"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ng",
+    "country": {
+      "en": "Nigeria",
+      "fr": "Nigeria"
+    },
+    "capital": {
+      "en": [
+        "Abuja"
+      ],
+      "fr": [
+        "Abuja"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "er",
+    "country": {
+      "en": "Eritrea",
+      "fr": "Érythrée"
+    },
+    "capital": {
+      "en": [
+        "Asmara"
+      ],
+      "fr": [
+        "Asmara"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  }
+]

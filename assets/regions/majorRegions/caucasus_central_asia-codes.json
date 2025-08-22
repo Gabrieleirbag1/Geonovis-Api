@@ -1,0 +1,62 @@
+{
+  "ge": {
+    "code": "ge",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "am": {
+    "code": "am",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "az": {
+    "code": "az",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kz": {
+    "code": "kz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "uz": {
+    "code": "uz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tm": {
+    "code": "tm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kg": {
+    "code": "kg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tj": {
+    "code": "tj",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ru": {
+    "code": "ru",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tr": {
+    "code": "tr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "flag": "au",
+    "country": {
+      "en": "Australia",
+      "fr": "Australie"
+    },
+    "capital": {
+      "en": [
+        "Canberra"
+      ],
+      "fr": [
+        "Canberra"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "fj",
+    "country": {
+      "en": "Fiji",
+      "fr": "Fidji"
+    },
+    "capital": {
+      "en": [
+        "Suva"
+      ],
+      "fr": [
+        "Suva"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ki",
+    "country": {
+      "en": "Kiribati",
+      "fr": "Kiribati"
+    },
+    "capital": {
+      "en": [
+        "South Tarawa"
+      ],
+      "fr": [
+        "South Tarawa"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mh",
+    "country": {
+      "en": "Marshall Islands",
+      "fr": "Îles Marshall"
+    },
+    "capital": {
+      "en": [
+        "Majuro"
+      ],
+      "fr": [
+        "Majuro"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "fm",
+    "country": {
+      "en": "Micronesia",
+      "fr": "Micronésie"
+    },
+    "capital": {
+      "en": [
+        "Palikir"
+      ],
+      "fr": [
+        "Palikir"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "nr",
+    "country": {
+      "en": "Nauru",
+      "fr": "Nauru"
+    },
+    "capital": {
+      "en": [
+        "Yaren"
+      ],
+      "fr": [
+        "Yaren"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "nz",
+    "country": {
+      "en": "New Zealand",
+      "fr": "Nouvelle-Zélande"
+    },
+    "capital": {
+      "en": [
+        "Wellington"
+      ],
+      "fr": [
+        "Wellington"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pw",
+    "country": {
+      "en": "Palau",
+      "fr": "Palau"
+    },
+    "capital": {
+      "en": [
+        "Ngerulmud"
+      ],
+      "fr": [
+        "Ngerulmud"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pg",
+    "country": {
+      "en": "Papua New Guinea",
+      "fr": "Papouasie-Nouvelle-Guinée"
+    },
+    "capital": {
+      "en": [
+        "Port Moresby"
+      ],
+      "fr": [
+        "Port Moresby"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ws",
+    "country": {
+      "en": "Samoa",
+      "fr": "Samoa"
+    },
+    "capital": {
+      "en": [
+        "Apia"
+      ],
+      "fr": [
+        "Apia"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sb",
+    "country": {
+      "en": "Solomon Islands",
+      "fr": "Îles Salomon"
+    },
+    "capital": {
+      "en": [
+        "Honiara"
+      ],
+      "fr": [
+        "Honiara"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tk",
+    "country": {
+      "en": "Tokelau",
+      "fr": "Tokelau"
+    },
+    "capital": {
+      "en": [
+        "Fakaofo"
+      ],
+      "fr": [
+        "Fakaofo"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "to",
+    "country": {
+      "en": "Tonga",
+      "fr": "Tonga"
+    },
+    "capital": {
+      "en": [
+        "Nukuʻalofa"
+      ],
+      "fr": [
+        "Nukuʻalofa"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tv",
+    "country": {
+      "en": "Tuvalu",
+      "fr": "Tuvalu"
+    },
+    "capital": {
+      "en": [
+        "Funafuti"
+      ],
+      "fr": [
+        "Funafuti"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "vu",
+    "country": {
+      "en": "Vanuatu",
+      "fr": "Vanuatu"
+    },
+    "capital": {
+      "en": [
+        "Port Vila"
+      ],
+      "fr": [
+        "Port-Vila"
+      ]
+    },
+    "continent": {
+      "en": "Oceania",
+      "fr": "Océanie"
+    },
+    "immatriculate_plate": null
+  }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "flag": "cd",
+    "country": {
+      "en": "Democratic Republic of the Congo",
+      "fr": "République démocratique du Congo"
+    },
+    "capital": {
+      "en": [
+        "Kinshasa"
+      ],
+      "fr": [
+        "Kinshasa"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cg",
+    "country": {
+      "en": "Congo",
+      "fr": "Congo"
+    },
+    "capital": {
+      "en": [
+        "Brazzaville"
+      ],
+      "fr": [
+        "Brazzaville"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ga",
+    "country": {
+      "en": "Gabon",
+      "fr": "Gabon"
+    },
+    "capital": {
+      "en": [
+        "Libreville"
+      ],
+      "fr": [
+        "Libreville"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cm",
+    "country": {
+      "en": "Cameroon",
+      "fr": "Cameroun"
+    },
+    "capital": {
+      "en": [
+        "Yaoundé"
+      ],
+      "fr": [
+        "Yaoundé"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cf",
+    "country": {
+      "en": "Central African Republic",
+      "fr": "République centrafricaine"
+    },
+    "capital": {
+      "en": [
+        "Bangui"
+      ],
+      "fr": [
+        "Bangui"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "td",
+    "country": {
+      "en": "Chad",
+      "fr": "Tchad"
+    },
+    "capital": {
+      "en": [
+        "N'Djamena"
+      ],
+      "fr": [
+        "N'Djamena"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ao",
+    "country": {
+      "en": "Angola",
+      "fr": "Angola"
+    },
+    "capital": {
+      "en": [
+        "Luanda"
+      ],
+      "fr": [
+        "Luanda"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "zm",
+    "country": {
+      "en": "Zambia",
+      "fr": "Zambie"
+    },
+    "capital": {
+      "en": [
+        "Lusaka"
+      ],
+      "fr": [
+        "Lusaka"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "na",
+    "country": {
+      "en": "Namibia",
+      "fr": "Namibie"
+    },
+    "capital": {
+      "en": [
+        "Windhoek"
+      ],
+      "fr": [
+        "Windhoek"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bw",
+    "country": {
+      "en": "Botswana",
+      "fr": "Botswana"
+    },
+    "capital": {
+      "en": [
+        "Gaborone"
+      ],
+      "fr": [
+        "Gaborone"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "zw",
+    "country": {
+      "en": "Zimbabwe",
+      "fr": "Zimbabwe"
+    },
+    "capital": {
+      "en": [
+        "Harare"
+      ],
+      "fr": [
+        "Harare"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mz",
+    "country": {
+      "en": "Mozambique",
+      "fr": "Mozambique"
+    },
+    "capital": {
+      "en": [
+        "Maputo"
+      ],
+      "fr": [
+        "Maputo"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "za",
+    "country": {
+      "en": "South Africa",
+      "fr": "Afrique du Sud"
+    },
+    "capital": {
+      "en": [
+        "Pretoria",
+        "Bloemfontein",
+        "Cape Town"
+      ],
+      "fr": [
+        "Pretoria",
+        "Bloemfontein",
+        "Le Cap"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ls",
+    "country": {
+      "en": "Lesotho",
+      "fr": "Lesotho"
+    },
+    "capital": {
+      "en": [
+        "Maseru"
+      ],
+      "fr": [
+        "Maseru"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sz",
+    "country": {
+      "en": "Eswatini",
+      "fr": "Eswatini"
+    },
+    "capital": {
+      "en": [
+        "Mbabane",
+        "Lobamba"
+      ],
+      "fr": [
+        "Mbabane",
+        "Lobamba"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mw",
+    "country": {
+      "en": "Malawi",
+      "fr": "Malawi"
+    },
+    "capital": {
+      "en": [
+        "Lilongwe"
+      ],
+      "fr": [
+        "Lilongwe"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  }
+]

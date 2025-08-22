@@ -1,0 +1,262 @@
+[
+  {
+    "flag": "pl",
+    "country": {
+      "en": "Poland",
+      "fr": "Pologne"
+    },
+    "capital": {
+      "en": [
+        "Warsaw"
+      ],
+      "fr": [
+        "Varsovie"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ua",
+    "country": {
+      "en": "Ukraine",
+      "fr": "Ukraine"
+    },
+    "capital": {
+      "en": [
+        "Kyiv"
+      ],
+      "fr": [
+        "Kiev"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ro",
+    "country": {
+      "en": "Romania",
+      "fr": "Roumanie"
+    },
+    "capital": {
+      "en": [
+        "Bucharest"
+      ],
+      "fr": [
+        "Bucarest"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bg",
+    "country": {
+      "en": "Bulgaria",
+      "fr": "Bulgarie"
+    },
+    "capital": {
+      "en": [
+        "Sofia"
+      ],
+      "fr": [
+        "Sofia"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "rs",
+    "country": {
+      "en": "Serbia",
+      "fr": "Serbie"
+    },
+    "capital": {
+      "en": [
+        "Belgrade"
+      ],
+      "fr": [
+        "Belgrade"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "by",
+    "country": {
+      "en": "Belarus",
+      "fr": "Biélorussie"
+    },
+    "capital": {
+      "en": [
+        "Minsk"
+      ],
+      "fr": [
+        "Minsk"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "md",
+    "country": {
+      "en": "Moldova",
+      "fr": "Moldavie"
+    },
+    "capital": {
+      "en": [
+        "Chișinău"
+      ],
+      "fr": [
+        "Chișinău"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hu",
+    "country": {
+      "en": "Hungary",
+      "fr": "Hongrie"
+    },
+    "capital": {
+      "en": [
+        "Budapest"
+      ],
+      "fr": [
+        "Budapest"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sk",
+    "country": {
+      "en": "Slovakia",
+      "fr": "Slovaquie"
+    },
+    "capital": {
+      "en": [
+        "Bratislava"
+      ],
+      "fr": [
+        "Bratislava"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cz",
+    "country": {
+      "en": "Czechia",
+      "fr": "République tchèque"
+    },
+    "capital": {
+      "en": [
+        "Prague"
+      ],
+      "fr": [
+        "Prague"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "al",
+    "country": {
+      "en": "Albania",
+      "fr": "Albanie"
+    },
+    "capital": {
+      "en": [
+        "Tirana"
+      ],
+      "fr": [
+        "Tirana"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mk",
+    "country": {
+      "en": "North Macedonia",
+      "fr": "Macédoine du Nord"
+    },
+    "capital": {
+      "en": [
+        "Skopje"
+      ],
+      "fr": [
+        "Skopje"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "me",
+    "country": {
+      "en": "Montenegro",
+      "fr": "Monténégro"
+    },
+    "capital": {
+      "en": [
+        "Podgorica"
+      ],
+      "fr": [
+        "Podgorica"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  }
+]

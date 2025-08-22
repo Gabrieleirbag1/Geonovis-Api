@@ -1,0 +1,202 @@
+[
+  {
+    "flag": "ge",
+    "country": {
+      "en": "Georgia",
+      "fr": "Géorgie"
+    },
+    "capital": {
+      "en": [
+        "Tbilisi"
+      ],
+      "fr": [
+        "Tbilissi"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "am",
+    "country": {
+      "en": "Armenia",
+      "fr": "Arménie"
+    },
+    "capital": {
+      "en": [
+        "Yerevan"
+      ],
+      "fr": [
+        "Erevan"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "az",
+    "country": {
+      "en": "Azerbaijan",
+      "fr": "Azerbaïdjan"
+    },
+    "capital": {
+      "en": [
+        "Baku"
+      ],
+      "fr": [
+        "Baku"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kz",
+    "country": {
+      "en": "Kazakhstan",
+      "fr": "Kazakhstan"
+    },
+    "capital": {
+      "en": [
+        "Astana"
+      ],
+      "fr": [
+        "Astana"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "uz",
+    "country": {
+      "en": "Uzbekistan",
+      "fr": "Ouzbékistan"
+    },
+    "capital": {
+      "en": [
+        "Tashkent"
+      ],
+      "fr": [
+        "Tachkent"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tm",
+    "country": {
+      "en": "Turkmenistan",
+      "fr": "Turkménistan"
+    },
+    "capital": {
+      "en": [
+        "Ashgabat"
+      ],
+      "fr": [
+        "Achgabat"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kg",
+    "country": {
+      "en": "Kyrgyzstan",
+      "fr": "Kirghizistan"
+    },
+    "capital": {
+      "en": [
+        "Bishkek"
+      ],
+      "fr": [
+        "Bishkek"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tj",
+    "country": {
+      "en": "Tajikistan",
+      "fr": "Tadjikistan"
+    },
+    "capital": {
+      "en": [
+        "Dushanbe"
+      ],
+      "fr": [
+        "Douchanbé"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ru",
+    "country": {
+      "en": "Russia",
+      "fr": "Russie"
+    },
+    "capital": {
+      "en": [
+        "Moscow"
+      ],
+      "fr": [
+        "Moscou"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tr",
+    "country": {
+      "en": "Turkey",
+      "fr": "Turquie"
+    },
+    "capital": {
+      "en": [
+        "Ankara"
+      ],
+      "fr": [
+        "Ankara"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  }
+]

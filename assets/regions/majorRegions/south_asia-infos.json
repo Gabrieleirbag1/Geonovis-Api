@@ -1,0 +1,164 @@
+[
+  {
+    "flag": "in",
+    "country": {
+      "en": "India",
+      "fr": "Inde"
+    },
+    "capital": {
+      "en": [
+        "New Delhi"
+      ],
+      "fr": [
+        "New Delhi"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pk",
+    "country": {
+      "en": "Pakistan",
+      "fr": "Pakistan"
+    },
+    "capital": {
+      "en": [
+        "Islamabad"
+      ],
+      "fr": [
+        "Islamabad"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bd",
+    "country": {
+      "en": "Bangladesh",
+      "fr": "Bangladesh"
+    },
+    "capital": {
+      "en": [
+        "Dhaka"
+      ],
+      "fr": [
+        "Dhaka"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lk",
+    "country": {
+      "en": "Sri Lanka",
+      "fr": "Sri Lanka"
+    },
+    "capital": {
+      "en": [
+        "Sri Jayawardenepura Kotte",
+        "Colombo"
+      ],
+      "fr": [
+        "Sri Jayawardenepura Kotte",
+        "Colombo"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "np",
+    "country": {
+      "en": "Nepal",
+      "fr": "Népal"
+    },
+    "capital": {
+      "en": [
+        "Kathmandu"
+      ],
+      "fr": [
+        "Katmandou"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bt",
+    "country": {
+      "en": "Bhutan",
+      "fr": "Bhoutan"
+    },
+    "capital": {
+      "en": [
+        "Thimphu"
+      ],
+      "fr": [
+        "Thimphu"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mv",
+    "country": {
+      "en": "Maldives",
+      "fr": "Maldives"
+    },
+    "capital": {
+      "en": [
+        "Malé"
+      ],
+      "fr": [
+        "Malé"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "af",
+    "country": {
+      "en": "Afghanistan",
+      "fr": "Afghanistan"
+    },
+    "capital": {
+      "en": [
+        "Kabul"
+      ],
+      "fr": [
+        "Kaboul"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  }
+]

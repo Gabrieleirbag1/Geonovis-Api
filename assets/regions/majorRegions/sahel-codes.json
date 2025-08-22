@@ -1,0 +1,56 @@
+{
+  "mr": {
+    "code": "mr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ml": {
+    "code": "ml",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ne": {
+    "code": "ne",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "td": {
+    "code": "td",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sd": {
+    "code": "sd",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bf": {
+    "code": "bf",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sn": {
+    "code": "sn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ng": {
+    "code": "ng",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "er": {
+    "code": "er",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}

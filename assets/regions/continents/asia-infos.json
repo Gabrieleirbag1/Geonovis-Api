@@ -1,0 +1,986 @@
+[
+  {
+    "flag": "ae",
+    "country": {
+      "en": "United Arab Emirates",
+      "fr": "Émirats arabes unis"
+    },
+    "capital": {
+      "en": [
+        "Abu Dhabi"
+      ],
+      "fr": [
+        "Abou Dabi"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "af",
+    "country": {
+      "en": "Afghanistan",
+      "fr": "Afghanistan"
+    },
+    "capital": {
+      "en": [
+        "Kabul"
+      ],
+      "fr": [
+        "Kaboul"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "am",
+    "country": {
+      "en": "Armenia",
+      "fr": "Arménie"
+    },
+    "capital": {
+      "en": [
+        "Yerevan"
+      ],
+      "fr": [
+        "Erevan"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "az",
+    "country": {
+      "en": "Azerbaijan",
+      "fr": "Azerbaïdjan"
+    },
+    "capital": {
+      "en": [
+        "Baku"
+      ],
+      "fr": [
+        "Baku"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bh",
+    "country": {
+      "en": "Bahrain",
+      "fr": "Bahreïn"
+    },
+    "capital": {
+      "en": [
+        "Manama"
+      ],
+      "fr": [
+        "Manama"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bd",
+    "country": {
+      "en": "Bangladesh",
+      "fr": "Bangladesh"
+    },
+    "capital": {
+      "en": [
+        "Dhaka"
+      ],
+      "fr": [
+        "Dhaka"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bt",
+    "country": {
+      "en": "Bhutan",
+      "fr": "Bhoutan"
+    },
+    "capital": {
+      "en": [
+        "Thimphu"
+      ],
+      "fr": [
+        "Thimphu"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bn",
+    "country": {
+      "en": "Brunei",
+      "fr": "Brunei"
+    },
+    "capital": {
+      "en": [
+        "Bandar Seri Begawan"
+      ],
+      "fr": [
+        "Bandar Seri Begawan"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kh",
+    "country": {
+      "en": "Cambodia",
+      "fr": "Cambodge"
+    },
+    "capital": {
+      "en": [
+        "Phnom Penh"
+      ],
+      "fr": [
+        "Phnom Penh"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cn",
+    "country": {
+      "en": "China",
+      "fr": "Chine"
+    },
+    "capital": {
+      "en": [
+        "Beijing"
+      ],
+      "fr": [
+        "Pékin"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ge",
+    "country": {
+      "en": "Georgia",
+      "fr": "Géorgie"
+    },
+    "capital": {
+      "en": [
+        "Tbilisi"
+      ],
+      "fr": [
+        "Tbilissi"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "in",
+    "country": {
+      "en": "India",
+      "fr": "Inde"
+    },
+    "capital": {
+      "en": [
+        "New Delhi"
+      ],
+      "fr": [
+        "New Delhi"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "id",
+    "country": {
+      "en": "Indonesia",
+      "fr": "Indonésie"
+    },
+    "capital": {
+      "en": [
+        "Jakarta"
+      ],
+      "fr": [
+        "Jakarta"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ir",
+    "country": {
+      "en": "Iran",
+      "fr": "Iran"
+    },
+    "capital": {
+      "en": [
+        "Tehran"
+      ],
+      "fr": [
+        "Téhéran"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "iq",
+    "country": {
+      "en": "Iraq",
+      "fr": "Irak"
+    },
+    "capital": {
+      "en": [
+        "Baghdad"
+      ],
+      "fr": [
+        "Bagdad"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "il",
+    "country": {
+      "en": "Israel",
+      "fr": "Israël"
+    },
+    "capital": {
+      "en": [
+        "Jerusalem"
+      ],
+      "fr": [
+        "Jérusalem"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "jp",
+    "country": {
+      "en": "Japan",
+      "fr": "Japon"
+    },
+    "capital": {
+      "en": [
+        "Tokyo"
+      ],
+      "fr": [
+        "Tokyo"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "jo",
+    "country": {
+      "en": "Jordan",
+      "fr": "Jordanie"
+    },
+    "capital": {
+      "en": [
+        "Amman"
+      ],
+      "fr": [
+        "Amman"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kz",
+    "country": {
+      "en": "Kazakhstan",
+      "fr": "Kazakhstan"
+    },
+    "capital": {
+      "en": [
+        "Astana"
+      ],
+      "fr": [
+        "Astana"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kw",
+    "country": {
+      "en": "Kuwait",
+      "fr": "Koweït"
+    },
+    "capital": {
+      "en": [
+        "Kuwait City"
+      ],
+      "fr": [
+        "Koweït City"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kg",
+    "country": {
+      "en": "Kyrgyzstan",
+      "fr": "Kirghizistan"
+    },
+    "capital": {
+      "en": [
+        "Bishkek"
+      ],
+      "fr": [
+        "Bishkek"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "la",
+    "country": {
+      "en": "Laos",
+      "fr": "Laos"
+    },
+    "capital": {
+      "en": [
+        "Vientiane"
+      ],
+      "fr": [
+        "Vientiane"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lb",
+    "country": {
+      "en": "Lebanon",
+      "fr": "Liban"
+    },
+    "capital": {
+      "en": [
+        "Beirut"
+      ],
+      "fr": [
+        "Beyrouth"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "my",
+    "country": {
+      "en": "Malaysia",
+      "fr": "Malaisie"
+    },
+    "capital": {
+      "en": [
+        "Kuala Lumpur"
+      ],
+      "fr": [
+        "Kuala Lumpur"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mv",
+    "country": {
+      "en": "Maldives",
+      "fr": "Maldives"
+    },
+    "capital": {
+      "en": [
+        "Malé"
+      ],
+      "fr": [
+        "Malé"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mn",
+    "country": {
+      "en": "Mongolia",
+      "fr": "Mongolie"
+    },
+    "capital": {
+      "en": [
+        "Ulaanbaatar"
+      ],
+      "fr": [
+        "Ulaanbaatar"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mm",
+    "country": {
+      "en": "Myanmar",
+      "fr": "Myanmar (Birmanie)"
+    },
+    "capital": {
+      "en": [
+        "Naypyidaw"
+      ],
+      "fr": [
+        "Naypyidaw"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "np",
+    "country": {
+      "en": "Nepal",
+      "fr": "Népal"
+    },
+    "capital": {
+      "en": [
+        "Kathmandu"
+      ],
+      "fr": [
+        "Katmandou"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kp",
+    "country": {
+      "en": "North Korea",
+      "fr": "Corée du Nord"
+    },
+    "capital": {
+      "en": [
+        "Pyongyang"
+      ],
+      "fr": [
+        "Pyongyang"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "om",
+    "country": {
+      "en": "Oman",
+      "fr": "Oman"
+    },
+    "capital": {
+      "en": [
+        "Muscat"
+      ],
+      "fr": [
+        "Muscat"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pk",
+    "country": {
+      "en": "Pakistan",
+      "fr": "Pakistan"
+    },
+    "capital": {
+      "en": [
+        "Islamabad"
+      ],
+      "fr": [
+        "Islamabad"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ps",
+    "country": {
+      "en": "Palestine",
+      "fr": "Palestine"
+    },
+    "capital": {
+      "en": [
+        "Ramallah",
+        "East Jerusalem"
+      ],
+      "fr": [
+        "Ramallah",
+        "Jérusalem-Est"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ph",
+    "country": {
+      "en": "Philippines",
+      "fr": "Philippines"
+    },
+    "capital": {
+      "en": [
+        "Manila"
+      ],
+      "fr": [
+        "Manille"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "qa",
+    "country": {
+      "en": "Qatar",
+      "fr": "Qatar"
+    },
+    "capital": {
+      "en": [
+        "Doha"
+      ],
+      "fr": [
+        "Doha"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sa",
+    "country": {
+      "en": "Saudi Arabia",
+      "fr": "Arabie Saoudite"
+    },
+    "capital": {
+      "en": [
+        "Riyadh"
+      ],
+      "fr": [
+        "Riyadh"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sg",
+    "country": {
+      "en": "Singapore",
+      "fr": "Singapour"
+    },
+    "capital": {
+      "en": [
+        "Singapore"
+      ],
+      "fr": [
+        "Singapour"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hk",
+    "country": {
+      "en": "Hong Kong",
+      "fr": "Hong Kong"
+    },
+    "capital": {
+      "en": [
+        "Hong Kong"
+      ],
+      "fr": [
+        "Hong Kong"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kr",
+    "country": {
+      "en": "South Korea",
+      "fr": "Corée du Sud"
+    },
+    "capital": {
+      "en": [
+        "Seoul"
+      ],
+      "fr": [
+        "Séoul"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lk",
+    "country": {
+      "en": "Sri Lanka",
+      "fr": "Sri Lanka"
+    },
+    "capital": {
+      "en": [
+        "Sri Jayawardenepura Kotte",
+        "Colombo"
+      ],
+      "fr": [
+        "Sri Jayawardenepura Kotte",
+        "Colombo"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sy",
+    "country": {
+      "en": "Syria",
+      "fr": "Syrie"
+    },
+    "capital": {
+      "en": [
+        "Damascus"
+      ],
+      "fr": [
+        "Damas"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tw",
+    "country": {
+      "en": "Taiwan",
+      "fr": "Taïwan"
+    },
+    "capital": {
+      "en": [
+        "Taipei"
+      ],
+      "fr": [
+        "Taipei"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tj",
+    "country": {
+      "en": "Tajikistan",
+      "fr": "Tadjikistan"
+    },
+    "capital": {
+      "en": [
+        "Dushanbe"
+      ],
+      "fr": [
+        "Douchanbé"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "th",
+    "country": {
+      "en": "Thailand",
+      "fr": "Thaïlande"
+    },
+    "capital": {
+      "en": [
+        "Bangkok"
+      ],
+      "fr": [
+        "Bangkok"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tl",
+    "country": {
+      "en": "Timor-Leste",
+      "fr": "Timor-Leste"
+    },
+    "capital": {
+      "en": [
+        "Dili"
+      ],
+      "fr": [
+        "Dili"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tr",
+    "country": {
+      "en": "Turkey",
+      "fr": "Turquie"
+    },
+    "capital": {
+      "en": [
+        "Ankara"
+      ],
+      "fr": [
+        "Ankara"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tm",
+    "country": {
+      "en": "Turkmenistan",
+      "fr": "Turkménistan"
+    },
+    "capital": {
+      "en": [
+        "Ashgabat"
+      ],
+      "fr": [
+        "Achgabat"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "uz",
+    "country": {
+      "en": "Uzbekistan",
+      "fr": "Ouzbékistan"
+    },
+    "capital": {
+      "en": [
+        "Tashkent"
+      ],
+      "fr": [
+        "Tachkent"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "vn",
+    "country": {
+      "en": "Vietnam",
+      "fr": "Viêt Nam"
+    },
+    "capital": {
+      "en": [
+        "Hanoi"
+      ],
+      "fr": [
+        "Hanoï"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ye",
+    "country": {
+      "en": "Yemen",
+      "fr": "Yémen"
+    },
+    "capital": {
+      "en": [
+        "Sana'a"
+      ],
+      "fr": [
+        "Sanaa"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  }
+]

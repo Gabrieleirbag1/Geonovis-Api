@@ -1,0 +1,483 @@
+[
+  {
+    "flag": "ag",
+    "country": {
+      "en": "Antigua and Barbuda",
+      "fr": "Antigua-et-Barbuda"
+    },
+    "capital": {
+      "en": [
+        "St. John's"
+      ],
+      "fr": [
+        "St. John's"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bs",
+    "country": {
+      "en": "Bahamas",
+      "fr": "Bahamas"
+    },
+    "capital": {
+      "en": [
+        "Nassau"
+      ],
+      "fr": [
+        "Nassau"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bb",
+    "country": {
+      "en": "Barbados",
+      "fr": "Barbade"
+    },
+    "capital": {
+      "en": [
+        "Bridgetown"
+      ],
+      "fr": [
+        "Bridgetown"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bz",
+    "country": {
+      "en": "Belize",
+      "fr": "Belize"
+    },
+    "capital": {
+      "en": [
+        "Belmopan"
+      ],
+      "fr": [
+        "Belmopan"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ca",
+    "country": {
+      "en": "Canada",
+      "fr": "Canada"
+    },
+    "capital": {
+      "en": [
+        "Ottawa"
+      ],
+      "fr": [
+        "Ottawa"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cr",
+    "country": {
+      "en": "Costa Rica",
+      "fr": "Costa Rica"
+    },
+    "capital": {
+      "en": [
+        "San José"
+      ],
+      "fr": [
+        "San José"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cu",
+    "country": {
+      "en": "Cuba",
+      "fr": "Cuba"
+    },
+    "capital": {
+      "en": [
+        "Havana"
+      ],
+      "fr": [
+        "La Havane"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "dm",
+    "country": {
+      "en": "Dominica",
+      "fr": "Dominique"
+    },
+    "capital": {
+      "en": [
+        "Roseau"
+      ],
+      "fr": [
+        "Roseau"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "do",
+    "country": {
+      "en": "Dominican Republic",
+      "fr": "République dominicaine"
+    },
+    "capital": {
+      "en": [
+        "Santo Domingo"
+      ],
+      "fr": [
+        "Santo Domingo"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sv",
+    "country": {
+      "en": "El Salvador",
+      "fr": "El Salvador"
+    },
+    "capital": {
+      "en": [
+        "San Salvador"
+      ],
+      "fr": [
+        "San Salvador"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gd",
+    "country": {
+      "en": "Grenada",
+      "fr": "Grenade"
+    },
+    "capital": {
+      "en": [
+        "St. George's"
+      ],
+      "fr": [
+        "St. George's"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gt",
+    "country": {
+      "en": "Guatemala",
+      "fr": "Guatemala"
+    },
+    "capital": {
+      "en": [
+        "Guatemala City"
+      ],
+      "fr": [
+        "Guatemala City"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ht",
+    "country": {
+      "en": "Haiti",
+      "fr": "Haïti"
+    },
+    "capital": {
+      "en": [
+        "Port-au-Prince"
+      ],
+      "fr": [
+        "Port-au-Prince"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hn",
+    "country": {
+      "en": "Honduras",
+      "fr": "Honduras"
+    },
+    "capital": {
+      "en": [
+        "Tegucigalpa"
+      ],
+      "fr": [
+        "Tegucigalpa"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "jm",
+    "country": {
+      "en": "Jamaica",
+      "fr": "Jamaïque"
+    },
+    "capital": {
+      "en": [
+        "Kingston"
+      ],
+      "fr": [
+        "Kingston"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mx",
+    "country": {
+      "en": "Mexico",
+      "fr": "Mexique"
+    },
+    "capital": {
+      "en": [
+        "Mexico City"
+      ],
+      "fr": [
+        "Mexico"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ni",
+    "country": {
+      "en": "Nicaragua",
+      "fr": "Nicaragua"
+    },
+    "capital": {
+      "en": [
+        "Managua"
+      ],
+      "fr": [
+        "Managua"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pa",
+    "country": {
+      "en": "Panama",
+      "fr": "Panama"
+    },
+    "capital": {
+      "en": [
+        "Panama City"
+      ],
+      "fr": [
+        "Panama City"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pr",
+    "country": {
+      "en": "Puerto Rico",
+      "fr": "Porto Rico"
+    },
+    "capital": {
+      "en": [
+        "San Juan"
+      ],
+      "fr": [
+        "San Juan"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    }
+  },
+  {
+    "flag": "kn",
+    "country": {
+      "en": "Saint Kitts and Nevis",
+      "fr": "Saint-Kitts-et-Nevis"
+    },
+    "capital": {
+      "en": [
+        "Basseterre"
+      ],
+      "fr": [
+        "Basseterre"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lc",
+    "country": {
+      "en": "Saint Lucia",
+      "fr": "Sainte-Lucie"
+    },
+    "capital": {
+      "en": [
+        "Castries"
+      ],
+      "fr": [
+        "Castries"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "vc",
+    "country": {
+      "en": "Saint Vincent and the Grenadines",
+      "fr": "Saint-Vincent-et-les-Grenadines"
+    },
+    "capital": {
+      "en": [
+        "Kingstown"
+      ],
+      "fr": [
+        "Kingstown"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tt",
+    "country": {
+      "en": "Trinidad and Tobago",
+      "fr": "Trinité-et-Tobago"
+    },
+    "capital": {
+      "en": [
+        "Port of Spain"
+      ],
+      "fr": [
+        "Port of Spain"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "us",
+    "country": {
+      "en": "United States",
+      "fr": "États-Unis"
+    },
+    "capital": {
+      "en": [
+        "Washington",
+        "D.C."
+      ],
+      "fr": [
+        "Washington",
+        "D.C."
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  }
+]

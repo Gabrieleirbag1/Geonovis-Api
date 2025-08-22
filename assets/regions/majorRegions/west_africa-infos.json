@@ -1,0 +1,261 @@
+[
+  {
+    "flag": "sn",
+    "country": {
+      "en": "Senegal",
+      "fr": "Sénégal"
+    },
+    "capital": {
+      "en": [
+        "Dakar"
+      ],
+      "fr": [
+        "Dakar"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ml",
+    "country": {
+      "en": "Mali",
+      "fr": "Mali"
+    },
+    "capital": {
+      "en": [
+        "Bamako"
+      ],
+      "fr": [
+        "Bamako"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bf",
+    "country": {
+      "en": "Burkina Faso",
+      "fr": "Burkina Faso"
+    },
+    "capital": {
+      "en": [
+        "Ouagadougou"
+      ],
+      "fr": [
+        "Ouagadougou"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ci",
+    "country": {
+      "en": "Côte d'Ivoire",
+      "fr": "Côte d'Ivoire"
+    },
+    "capital": {
+      "en": [
+        "Yamoussoukro"
+      ],
+      "fr": [
+        "Yamoussoukro"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    }
+  },
+  {
+    "flag": "gn",
+    "country": {
+      "en": "Guinea",
+      "fr": "Guinée"
+    },
+    "capital": {
+      "en": [
+        "Conakry"
+      ],
+      "fr": [
+        "Conakry"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gh",
+    "country": {
+      "en": "Ghana",
+      "fr": "Ghana"
+    },
+    "capital": {
+      "en": [
+        "Accra"
+      ],
+      "fr": [
+        "Accra"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tg",
+    "country": {
+      "en": "Togo",
+      "fr": "Togo"
+    },
+    "capital": {
+      "en": [
+        "Lomé"
+      ],
+      "fr": [
+        "Lomé"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bj",
+    "country": {
+      "en": "Benin",
+      "fr": "Bénin"
+    },
+    "capital": {
+      "en": [
+        "Porto-Novo"
+      ],
+      "fr": [
+        "Porto-Novo"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ng",
+    "country": {
+      "en": "Nigeria",
+      "fr": "Nigeria"
+    },
+    "capital": {
+      "en": [
+        "Abuja"
+      ],
+      "fr": [
+        "Abuja"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ne",
+    "country": {
+      "en": "Niger",
+      "fr": "Niger"
+    },
+    "capital": {
+      "en": [
+        "Niamey"
+      ],
+      "fr": [
+        "Niamey"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sl",
+    "country": {
+      "en": "Sierra Leone",
+      "fr": "Sierra Leone"
+    },
+    "capital": {
+      "en": [
+        "Freetown"
+      ],
+      "fr": [
+        "Freetown"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lr",
+    "country": {
+      "en": "Liberia",
+      "fr": "Liberia"
+    },
+    "capital": {
+      "en": [
+        "Monrovia"
+      ],
+      "fr": [
+        "Monrovia"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gm",
+    "country": {
+      "en": "Gambia",
+      "fr": "Gambie"
+    },
+    "capital": {
+      "en": [
+        "Banjul"
+      ],
+      "fr": [
+        "Banjul"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  }
+]

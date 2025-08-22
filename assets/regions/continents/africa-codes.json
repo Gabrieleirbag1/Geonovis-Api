@@ -1,0 +1,320 @@
+{
+  "dz": {
+    "code": "dz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ao": {
+    "code": "ao",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bj": {
+    "code": "bj",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bw": {
+    "code": "bw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bf": {
+    "code": "bf",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bi": {
+    "code": "bi",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cm": {
+    "code": "cm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cv": {
+    "code": "cv",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cf": {
+    "code": "cf",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "td": {
+    "code": "td",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "km": {
+    "code": "km",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cg": {
+    "code": "cg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cd": {
+    "code": "cd",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "dj": {
+    "code": "dj",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "eg": {
+    "code": "eg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "gq": {
+    "code": "gq",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "er": {
+    "code": "er",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sz": {
+    "code": "sz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "et": {
+    "code": "et",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ga": {
+    "code": "ga",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "gm": {
+    "code": "gm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "gh": {
+    "code": "gh",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "gn": {
+    "code": "gn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "gw": {
+    "code": "gw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ke": {
+    "code": "ke",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ls": {
+    "code": "ls",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "lr": {
+    "code": "lr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ly": {
+    "code": "ly",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mg": {
+    "code": "mg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mw": {
+    "code": "mw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ml": {
+    "code": "ml",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mr": {
+    "code": "mr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mu": {
+    "code": "mu",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ma": {
+    "code": "ma",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mz": {
+    "code": "mz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "na": {
+    "code": "na",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ne": {
+    "code": "ne",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ng": {
+    "code": "ng",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "rw": {
+    "code": "rw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "st": {
+    "code": "st",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sn": {
+    "code": "sn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sc": {
+    "code": "sc",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sl": {
+    "code": "sl",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "so": {
+    "code": "so",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "za": {
+    "code": "za",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ss": {
+    "code": "ss",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sd": {
+    "code": "sd",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tz": {
+    "code": "tz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tg": {
+    "code": "tg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tn": {
+    "code": "tn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ug": {
+    "code": "ug",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "zm": {
+    "code": "zm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "zw": {
+    "code": "zw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}

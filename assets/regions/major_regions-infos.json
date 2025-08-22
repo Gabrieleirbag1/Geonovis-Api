@@ -1,0 +1,101 @@
+{
+  "majorsRegions": {
+    "east_europe": {
+      "name": { "fr": "Europe de l'Est", "en": "Eastern Europe" },
+      "countries": {
+        "fr": ["Pologne", "Ukraine", "Roumanie", "Bulgarie", "Serbie", "Biélorussie", "Moldavie", "Hongrie", "Slovaquie", "République tchèque", "Albanie", "Macédoine du Nord", "Monténégro"],
+        "en": ["Poland", "Ukraine", "Romania", "Bulgaria", "Serbia", "Belarus", "Moldova", "Hungary", "Slovakia", "Czech Republic", "Albania", "North Macedonia", "Montenegro"],
+        "code": ["PL", "UA", "RO", "BG", "RS", "BY", "MD", "HU", "SK", "CZ", "AL", "MK", "ME"]
+      }
+    },
+    "middle_east": {
+      "name": { "fr": "Moyen-Orient", "en": "Middle East" },
+      "countries": {
+        "fr": ["Arabie saoudite", "Iran", "Irak", "Syrie", "Jordanie", "Liban", "Israël", "Palestine", "Turquie", "Égypte", "Émirats arabes unis", "Qatar", "Oman", "Yémen", "Koweït", "Bahreïn"],
+        "en": ["Saudi Arabia", "Iran", "Iraq", "Syria", "Jordan", "Lebanon", "Israel", "Palestine", "Turkey", "Egypt", "United Arab Emirates", "Qatar", "Oman", "Yemen", "Kuwait", "Bahrain"],
+        "code": ["SA", "IR", "IQ", "SY", "JO", "LB", "IL", "PS", "TR", "EG", "AE", "QA", "OM", "YE", "KW", "BH"]
+      }
+    },
+    "west_africa": {
+      "name": { "fr": "Afrique de l'Ouest", "en": "West Africa" },
+      "countries": {
+        "fr": ["Sénégal", "Mali", "Burkina Faso", "Côte d'Ivoire", "Guinée", "Ghana", "Togo", "Bénin", "Nigéria", "Niger", "Sierra Leone", "Liberia", "Gambie"],
+        "en": ["Senegal", "Mali", "Burkina Faso", "Ivory Coast", "Guinea", "Ghana", "Togo", "Benin", "Nigeria", "Niger", "Sierra Leone", "Liberia", "Gambia"],
+        "code": ["SN", "ML", "BF", "CI", "GN", "GH", "TG", "BJ", "NG", "NE", "SL", "LR", "GM"]
+      }
+    },
+    "central_southern_africa": {
+      "name": { "fr": "Afrique centrale et australe", "en": "Central and Southern Africa" },
+      "countries": {
+        "fr": ["République démocratique du Congo", "République du Congo", "Gabon", "Cameroun", "Centrafrique", "Tchad", "Angola", "Zambie", "Namibie", "Botswana", "Zimbabwe", "Mozambique", "Afrique du Sud", "Lesotho", "Eswatini", "Malawi"],
+        "en": ["Democratic Republic of the Congo", "Republic of the Congo", "Gabon", "Cameroon", "Central African Republic", "Chad", "Angola", "Zambia", "Namibia", "Botswana", "Zimbabwe", "Mozambique", "South Africa", "Lesotho", "Eswatini", "Malawi"],
+        "code": ["CD", "CG", "GA", "CM", "CF", "TD", "AO", "ZM", "NA", "BW", "ZW", "MZ", "ZA", "LS", "SZ", "MW"]
+      }
+    },
+
+    "southeast_asia": {
+      "name": { "fr": "Asie du Sud-Est", "en": "Southeast Asia" },
+      "countries": {
+        "fr": ["Thaïlande", "Vietnam", "Indonésie", "Malaisie", "Philippines", "Myanmar", "Cambodge", "Laos", "Singapour", "Timor oriental", "Brunei"],
+        "en": ["Thailand", "Vietnam", "Indonesia", "Malaysia", "Philippines", "Myanmar", "Cambodia", "Laos", "Singapore", "Timor-Leste", "Brunei"],
+        "code": ["TH", "VN", "ID", "MY", "PH", "MM", "KH", "LA", "SG", "TL", "BN"]
+      }
+    },
+    "south_asia": {
+      "name": { "fr": "Asie du Sud", "en": "South Asia" },
+      "countries": {
+        "fr": ["Inde", "Pakistan", "Bangladesh", "Sri Lanka", "Népal", "Bhoutan", "Maldives", "Afghanistan"],
+        "en": ["India", "Pakistan", "Bangladesh", "Sri Lanka", "Nepal", "Bhutan", "Maldives", "Afghanistan"],
+        "code": ["IN", "PK", "BD", "LK", "NP", "BT", "MV", "AF"]
+      }
+    },
+    "caucasus_central_asia": {
+      "name": { "fr": "Caucase et Asie centrale", "en": "Caucasus and Central Asia" },
+      "countries": {
+        "fr": ["Géorgie", "Arménie", "Azerbaïdjan", "Kazakhstan", "Ouzbékistan", "Turkménistan", "Kirghizistan", "Tadjikistan", "Russie", "Turquie"],
+        "en": ["Georgia", "Armenia", "Azerbaijan", "Kazakhstan", "Uzbekistan", "Turkmenistan", "Kyrgyzstan", "Tajikistan", "Russia", "Turkey"],
+        "code": ["GE", "AM", "AZ", "KZ", "UZ", "TM", "KG", "TJ", "RU", "TR"]
+      }
+    },
+    "caribbean": {
+      "name": { "fr": "Caraïbes", "en": "Caribbean" },
+      "countries": {
+        "fr": ["Haïti", "République dominicaine", "Cuba", "Jamaïque", "Trinité-et-Tobago", "Barbade", "Saint-Lucie", "Saint-Vincent-et-les-Grenadines", "Antigua-et-Barbuda", "Dominique", "Grenade"],
+        "en": ["Haiti", "Dominican Republic", "Cuba", "Jamaica", "Trinidad and Tobago", "Barbados", "Saint Lucia", "Saint Vincent and the Grenadines", "Antigua and Barbuda", "Dominica", "Grenada"],
+        "code": ["HT", "DO", "CU", "JM", "TT", "BB", "LC", "VC", "AG", "DM", "GD"]
+      }
+    },
+    "central_america": {
+      "name": { "fr": "Amérique centrale", "en": "Central America" },
+      "countries": {
+        "fr": ["Guatemala", "Honduras", "Salvador", "Nicaragua", "Costa Rica", "Panama", "Belize", "Mexique"],
+        "en": ["Guatemala", "Honduras", "El Salvador", "Nicaragua", "Costa Rica", "Panama", "Belize", "Mexico"],
+        "code": ["GT", "HN", "SV", "NI", "CR", "PA", "BZ", "MX"]
+      }
+    },
+    "sahel": {
+      "name": { "fr": "Sahel", "en": "Sahel" },
+      "countries": {
+        "fr": ["Mauritanie", "Mali", "Niger", "Tchad", "Soudan", "Burkina Faso", "Sénégal", "Nigeria", "Érythrée"],
+        "en": ["Mauritania", "Mali", "Niger", "Chad", "Sudan", "Burkina Faso", "Senegal", "Nigeria", "Eritrea"],
+        "code": ["MR", "ML", "NE", "TD", "SD", "BF", "SN", "NG", "ER"]
+      }
+    },
+    "arab_world": {
+      "name": { "fr": "Monde arabe", "en": "Arab World" },
+      "countries": {
+        "fr": ["Maroc", "Algérie", "Tunisie", "Libye", "Égypte", "Mauritanie", "Soudan", "Djibouti", "Somalie", "Comores", "Palestine", "Jordanie", "Liban", "Syrie", "Irak", "Arabie saoudite", "Koweït", "Bahreïn", "Qatar", "Émirats arabes unis", "Oman", "Yémen"],
+        "en": ["Morocco", "Algeria", "Tunisia", "Libya", "Egypt", "Mauritania", "Sudan", "Djibouti", "Somalia", "Comoros", "Palestine", "Jordan", "Lebanon", "Syria", "Iraq", "Saudi Arabia", "Kuwait", "Bahrain", "Qatar", "United Arab Emirates", "Oman", "Yemen"],
+        "code": ["MA", "DZ", "TN", "LY", "EG", "MR", "SD", "DJ", "SO", "KM", "PS", "JO", "LB", "SY", "IQ", "SA", "KW", "BH", "QA", "AE", "OM", "YE"]
+      }
+    },
+    "balkans": {
+      "name": { "fr": "Balkans", "en": "Balkans" },
+      "countries": {
+        "fr": ["Serbie", "Croatie", "Bosnie-Herzégovine", "Monténégro", "Albanie", "Macédoine du Nord", "Kosovo", "Bulgarie", "Grèce", "Slovénie", "Roumanie", "Turquie"],
+        "en": ["Serbia", "Croatia", "Bosnia and Herzegovina", "Montenegro", "Albania", "North Macedonia", "Kosovo", "Bulgaria", "Greece", "Slovenia", "Romania", "Turkey"],
+        "code": ["RS", "HR", "BA", "ME", "AL", "MK", "XK", "BG", "GR", "SI", "RO", "TR"]
+      }
+    }
+  }
+}

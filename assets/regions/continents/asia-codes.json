@@ -1,0 +1,296 @@
+{
+  "ae": {
+    "code": "ae",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "af": {
+    "code": "af",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "am": {
+    "code": "am",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "az": {
+    "code": "az",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bh": {
+    "code": "bh",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bd": {
+    "code": "bd",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bt": {
+    "code": "bt",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bn": {
+    "code": "bn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kh": {
+    "code": "kh",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cn": {
+    "code": "cn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ge": {
+    "code": "ge",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "in": {
+    "code": "in",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "id": {
+    "code": "id",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ir": {
+    "code": "ir",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "iq": {
+    "code": "iq",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "il": {
+    "code": "il",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "jp": {
+    "code": "jp",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "jo": {
+    "code": "jo",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kz": {
+    "code": "kz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kw": {
+    "code": "kw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kg": {
+    "code": "kg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "la": {
+    "code": "la",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "lb": {
+    "code": "lb",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "my": {
+    "code": "my",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mv": {
+    "code": "mv",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mn": {
+    "code": "mn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mm": {
+    "code": "mm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "np": {
+    "code": "np",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kp": {
+    "code": "kp",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "om": {
+    "code": "om",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "pk": {
+    "code": "pk",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ps": {
+    "code": "ps",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ph": {
+    "code": "ph",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "qa": {
+    "code": "qa",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sa": {
+    "code": "sa",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sg": {
+    "code": "sg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "hk": {
+    "code": "hk",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kr": {
+    "code": "kr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "lk": {
+    "code": "lk",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sy": {
+    "code": "sy",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tw": {
+    "code": "tw",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tj": {
+    "code": "tj",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "th": {
+    "code": "th",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tl": {
+    "code": "tl",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tr": {
+    "code": "tr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tm": {
+    "code": "tm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "uz": {
+    "code": "uz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "vn": {
+    "code": "vn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ye": {
+    "code": "ye",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}

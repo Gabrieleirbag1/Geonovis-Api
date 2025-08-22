@@ -1,0 +1,244 @@
+[
+  {
+    "flag": "ar",
+    "country": {
+      "en": "Argentina",
+      "fr": "Argentine"
+    },
+    "capital": {
+      "en": [
+        "Buenos Aires"
+      ],
+      "fr": [
+        "Buenos Aires"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bo",
+    "country": {
+      "en": "Bolivia",
+      "fr": "Bolivie"
+    },
+    "capital": {
+      "en": [
+        "Sucre",
+        "La Paz"
+      ],
+      "fr": [
+        "Sucre",
+        "La Paz"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "br",
+    "country": {
+      "en": "Brazil",
+      "fr": "Brésil"
+    },
+    "capital": {
+      "en": [
+        "Brasília"
+      ],
+      "fr": [
+        "Brasília"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cl",
+    "country": {
+      "en": "Chile",
+      "fr": "Chili"
+    },
+    "capital": {
+      "en": [
+        "Santiago"
+      ],
+      "fr": [
+        "Santiago"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "co",
+    "country": {
+      "en": "Colombia",
+      "fr": "Colombie"
+    },
+    "capital": {
+      "en": [
+        "Bogotá"
+      ],
+      "fr": [
+        "Bogotá"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ec",
+    "country": {
+      "en": "Ecuador",
+      "fr": "Équateur"
+    },
+    "capital": {
+      "en": [
+        "Quito"
+      ],
+      "fr": [
+        "Quito"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gy",
+    "country": {
+      "en": "Guyana",
+      "fr": "Guyane"
+    },
+    "capital": {
+      "en": [
+        "Georgetown"
+      ],
+      "fr": [
+        "Georgetown"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "py",
+    "country": {
+      "en": "Paraguay",
+      "fr": "Paraguay"
+    },
+    "capital": {
+      "en": [
+        "Asunción"
+      ],
+      "fr": [
+        "Asunción"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pe",
+    "country": {
+      "en": "Peru",
+      "fr": "Pérou"
+    },
+    "capital": {
+      "en": [
+        "Lima"
+      ],
+      "fr": [
+        "Lima"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sr",
+    "country": {
+      "en": "Suriname",
+      "fr": "Suriname"
+    },
+    "capital": {
+      "en": [
+        "Paramaribo"
+      ],
+      "fr": [
+        "Paramaribo"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "uy",
+    "country": {
+      "en": "Uruguay",
+      "fr": "Uruguay"
+    },
+    "capital": {
+      "en": [
+        "Montevideo"
+      ],
+      "fr": [
+        "Montevideo"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ve",
+    "country": {
+      "en": "Venezuela",
+      "fr": "Venezuela"
+    },
+    "capital": {
+      "en": [
+        "Caracas"
+      ],
+      "fr": [
+        "Caracas"
+      ]
+    },
+    "continent": {
+      "en": "South America",
+      "fr": "Amérique du Sud"
+    },
+    "immatriculate_plate": null
+  }
+]

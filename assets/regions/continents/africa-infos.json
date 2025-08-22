@@ -1,0 +1,1087 @@
+[
+  {
+    "flag": "dz",
+    "country": {
+      "en": "Algeria",
+      "fr": "Algérie"
+    },
+    "capital": {
+      "en": [
+        "Algiers"
+      ],
+      "fr": [
+        "Alger"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ao",
+    "country": {
+      "en": "Angola",
+      "fr": "Angola"
+    },
+    "capital": {
+      "en": [
+        "Luanda"
+      ],
+      "fr": [
+        "Luanda"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bj",
+    "country": {
+      "en": "Benin",
+      "fr": "Bénin"
+    },
+    "capital": {
+      "en": [
+        "Porto-Novo"
+      ],
+      "fr": [
+        "Porto-Novo"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bw",
+    "country": {
+      "en": "Botswana",
+      "fr": "Botswana"
+    },
+    "capital": {
+      "en": [
+        "Gaborone"
+      ],
+      "fr": [
+        "Gaborone"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bf",
+    "country": {
+      "en": "Burkina Faso",
+      "fr": "Burkina Faso"
+    },
+    "capital": {
+      "en": [
+        "Ouagadougou"
+      ],
+      "fr": [
+        "Ouagadougou"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bi",
+    "country": {
+      "en": "Burundi",
+      "fr": "Burundi"
+    },
+    "capital": {
+      "en": [
+        "Gitega"
+      ],
+      "fr": [
+        "Gitega"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cm",
+    "country": {
+      "en": "Cameroon",
+      "fr": "Cameroun"
+    },
+    "capital": {
+      "en": [
+        "Yaoundé"
+      ],
+      "fr": [
+        "Yaoundé"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cv",
+    "country": {
+      "en": "Cape Verde",
+      "fr": "Cap-Vert"
+    },
+    "capital": {
+      "en": [
+        "Praia"
+      ],
+      "fr": [
+        "Praia"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cf",
+    "country": {
+      "en": "Central African Republic",
+      "fr": "République centrafricaine"
+    },
+    "capital": {
+      "en": [
+        "Bangui"
+      ],
+      "fr": [
+        "Bangui"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "td",
+    "country": {
+      "en": "Chad",
+      "fr": "Tchad"
+    },
+    "capital": {
+      "en": [
+        "N'Djamena"
+      ],
+      "fr": [
+        "N'Djamena"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "km",
+    "country": {
+      "en": "Comoros",
+      "fr": "Comores"
+    },
+    "capital": {
+      "en": [
+        "Moroni"
+      ],
+      "fr": [
+        "Moroni"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cg",
+    "country": {
+      "en": "Congo",
+      "fr": "Congo"
+    },
+    "capital": {
+      "en": [
+        "Brazzaville"
+      ],
+      "fr": [
+        "Brazzaville"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cd",
+    "country": {
+      "en": "Democratic Republic of the Congo",
+      "fr": "République démocratique du Congo"
+    },
+    "capital": {
+      "en": [
+        "Kinshasa"
+      ],
+      "fr": [
+        "Kinshasa"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ci",
+    "country": {
+      "en": "Côte d'Ivoire",
+      "fr": "Côte d'Ivoire"
+    },
+    "capital": {
+      "en": [
+        "Yamoussoukro"
+      ],
+      "fr": [
+        "Yamoussoukro"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    }
+  },
+  {
+    "flag": "dj",
+    "country": {
+      "en": "Djibouti",
+      "fr": "Djibouti"
+    },
+    "capital": {
+      "en": [
+        "Djibouti"
+      ],
+      "fr": [
+        "Djibouti"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "eg",
+    "country": {
+      "en": "Egypt",
+      "fr": "Égypte"
+    },
+    "capital": {
+      "en": [
+        "Cairo"
+      ],
+      "fr": [
+        "Le Caire"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gq",
+    "country": {
+      "en": "Equatorial Guinea",
+      "fr": "Guinée équatoriale"
+    },
+    "capital": {
+      "en": [
+        "Malabo"
+      ],
+      "fr": [
+        "Malabo"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "er",
+    "country": {
+      "en": "Eritrea",
+      "fr": "Érythrée"
+    },
+    "capital": {
+      "en": [
+        "Asmara"
+      ],
+      "fr": [
+        "Asmara"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sz",
+    "country": {
+      "en": "Eswatini",
+      "fr": "Eswatini"
+    },
+    "capital": {
+      "en": [
+        "Mbabane",
+        "Lobamba"
+      ],
+      "fr": [
+        "Mbabane",
+        "Lobamba"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "et",
+    "country": {
+      "en": "Ethiopia",
+      "fr": "Éthiopie"
+    },
+    "capital": {
+      "en": [
+        "Addis Ababa"
+      ],
+      "fr": [
+        "Addis-Abeba"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ga",
+    "country": {
+      "en": "Gabon",
+      "fr": "Gabon"
+    },
+    "capital": {
+      "en": [
+        "Libreville"
+      ],
+      "fr": [
+        "Libreville"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gm",
+    "country": {
+      "en": "Gambia",
+      "fr": "Gambie"
+    },
+    "capital": {
+      "en": [
+        "Banjul"
+      ],
+      "fr": [
+        "Banjul"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gh",
+    "country": {
+      "en": "Ghana",
+      "fr": "Ghana"
+    },
+    "capital": {
+      "en": [
+        "Accra"
+      ],
+      "fr": [
+        "Accra"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gn",
+    "country": {
+      "en": "Guinea",
+      "fr": "Guinée"
+    },
+    "capital": {
+      "en": [
+        "Conakry"
+      ],
+      "fr": [
+        "Conakry"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gw",
+    "country": {
+      "en": "Guinea-Bissau",
+      "fr": "Guinée-Bissau"
+    },
+    "capital": {
+      "en": [
+        "Bissau"
+      ],
+      "fr": [
+        "Bissau"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ke",
+    "country": {
+      "en": "Kenya",
+      "fr": "Kenya"
+    },
+    "capital": {
+      "en": [
+        "Nairobi"
+      ],
+      "fr": [
+        "Nairobi"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ls",
+    "country": {
+      "en": "Lesotho",
+      "fr": "Lesotho"
+    },
+    "capital": {
+      "en": [
+        "Maseru"
+      ],
+      "fr": [
+        "Maseru"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lr",
+    "country": {
+      "en": "Liberia",
+      "fr": "Liberia"
+    },
+    "capital": {
+      "en": [
+        "Monrovia"
+      ],
+      "fr": [
+        "Monrovia"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ly",
+    "country": {
+      "en": "Libya",
+      "fr": "Libye"
+    },
+    "capital": {
+      "en": [
+        "Tripoli"
+      ],
+      "fr": [
+        "Tripoli"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mg",
+    "country": {
+      "en": "Madagascar",
+      "fr": "Madagascar"
+    },
+    "capital": {
+      "en": [
+        "Antananarivo"
+      ],
+      "fr": [
+        "Antananarivo"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mw",
+    "country": {
+      "en": "Malawi",
+      "fr": "Malawi"
+    },
+    "capital": {
+      "en": [
+        "Lilongwe"
+      ],
+      "fr": [
+        "Lilongwe"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ml",
+    "country": {
+      "en": "Mali",
+      "fr": "Mali"
+    },
+    "capital": {
+      "en": [
+        "Bamako"
+      ],
+      "fr": [
+        "Bamako"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mr",
+    "country": {
+      "en": "Mauritania",
+      "fr": "Mauritanie"
+    },
+    "capital": {
+      "en": [
+        "Nouakchott"
+      ],
+      "fr": [
+        "Nouakchott"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mu",
+    "country": {
+      "en": "Mauritius",
+      "fr": "Maurice"
+    },
+    "capital": {
+      "en": [
+        "Port Louis"
+      ],
+      "fr": [
+        "Port Louis"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ma",
+    "country": {
+      "en": "Morocco",
+      "fr": "Maroc"
+    },
+    "capital": {
+      "en": [
+        "Rabat"
+      ],
+      "fr": [
+        "Rabat"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mz",
+    "country": {
+      "en": "Mozambique",
+      "fr": "Mozambique"
+    },
+    "capital": {
+      "en": [
+        "Maputo"
+      ],
+      "fr": [
+        "Maputo"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "na",
+    "country": {
+      "en": "Namibia",
+      "fr": "Namibie"
+    },
+    "capital": {
+      "en": [
+        "Windhoek"
+      ],
+      "fr": [
+        "Windhoek"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ne",
+    "country": {
+      "en": "Niger",
+      "fr": "Niger"
+    },
+    "capital": {
+      "en": [
+        "Niamey"
+      ],
+      "fr": [
+        "Niamey"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ng",
+    "country": {
+      "en": "Nigeria",
+      "fr": "Nigeria"
+    },
+    "capital": {
+      "en": [
+        "Abuja"
+      ],
+      "fr": [
+        "Abuja"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "rw",
+    "country": {
+      "en": "Rwanda",
+      "fr": "Rwanda"
+    },
+    "capital": {
+      "en": [
+        "Kigali"
+      ],
+      "fr": [
+        "Kigali"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "st",
+    "country": {
+      "en": "São Tomé and Príncipe",
+      "fr": "São Tomé et Príncipe"
+    },
+    "capital": {
+      "en": [
+        "São Tomé"
+      ],
+      "fr": [
+        "São Tomé"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sn",
+    "country": {
+      "en": "Senegal",
+      "fr": "Sénégal"
+    },
+    "capital": {
+      "en": [
+        "Dakar"
+      ],
+      "fr": [
+        "Dakar"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sc",
+    "country": {
+      "en": "Seychelles",
+      "fr": "Seychelles"
+    },
+    "capital": {
+      "en": [
+        "Victoria"
+      ],
+      "fr": [
+        "Victoria"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sl",
+    "country": {
+      "en": "Sierra Leone",
+      "fr": "Sierra Leone"
+    },
+    "capital": {
+      "en": [
+        "Freetown"
+      ],
+      "fr": [
+        "Freetown"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "so",
+    "country": {
+      "en": "Somalia",
+      "fr": "Somalie"
+    },
+    "capital": {
+      "en": [
+        "Mogadishu"
+      ],
+      "fr": [
+        "Mogadiscio"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "za",
+    "country": {
+      "en": "South Africa",
+      "fr": "Afrique du Sud"
+    },
+    "capital": {
+      "en": [
+        "Pretoria",
+        "Bloemfontein",
+        "Cape Town"
+      ],
+      "fr": [
+        "Pretoria",
+        "Bloemfontein",
+        "Le Cap"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ss",
+    "country": {
+      "en": "South Sudan",
+      "fr": "Soudan du Sud"
+    },
+    "capital": {
+      "en": [
+        "Juba"
+      ],
+      "fr": [
+        "Juba"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sd",
+    "country": {
+      "en": "Sudan",
+      "fr": "Soudan"
+    },
+    "capital": {
+      "en": [
+        "Khartoum"
+      ],
+      "fr": [
+        "Khartoum"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tz",
+    "country": {
+      "en": "Tanzania",
+      "fr": "Tanzanie"
+    },
+    "capital": {
+      "en": [
+        "Dodoma"
+      ],
+      "fr": [
+        "Dodoma"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tg",
+    "country": {
+      "en": "Togo",
+      "fr": "Togo"
+    },
+    "capital": {
+      "en": [
+        "Lomé"
+      ],
+      "fr": [
+        "Lomé"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tn",
+    "country": {
+      "en": "Tunisia",
+      "fr": "Tunisie"
+    },
+    "capital": {
+      "en": [
+        "Tunis"
+      ],
+      "fr": [
+        "Tunis"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ug",
+    "country": {
+      "en": "Uganda",
+      "fr": "Ouganda"
+    },
+    "capital": {
+      "en": [
+        "Kampala"
+      ],
+      "fr": [
+        "Kampala"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "zm",
+    "country": {
+      "en": "Zambia",
+      "fr": "Zambie"
+    },
+    "capital": {
+      "en": [
+        "Lusaka"
+      ],
+      "fr": [
+        "Lusaka"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "zw",
+    "country": {
+      "en": "Zimbabwe",
+      "fr": "Zimbabwe"
+    },
+    "capital": {
+      "en": [
+        "Harare"
+      ],
+      "fr": [
+        "Harare"
+      ]
+    },
+    "continent": {
+      "en": "Africa",
+      "fr": "Afrique"
+    },
+    "immatriculate_plate": null
+  }
+]

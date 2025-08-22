@@ -1,0 +1,68 @@
+{
+  "th": {
+    "code": "th",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "vn": {
+    "code": "vn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "id": {
+    "code": "id",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "my": {
+    "code": "my",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ph": {
+    "code": "ph",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mm": {
+    "code": "mm",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "kh": {
+    "code": "kh",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "la": {
+    "code": "la",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sg": {
+    "code": "sg",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "tl": {
+    "code": "tl",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bn": {
+    "code": "bn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}

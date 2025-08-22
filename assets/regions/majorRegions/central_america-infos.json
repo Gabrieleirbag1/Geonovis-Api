@@ -1,0 +1,162 @@
+[
+  {
+    "flag": "gt",
+    "country": {
+      "en": "Guatemala",
+      "fr": "Guatemala"
+    },
+    "capital": {
+      "en": [
+        "Guatemala City"
+      ],
+      "fr": [
+        "Guatemala City"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hn",
+    "country": {
+      "en": "Honduras",
+      "fr": "Honduras"
+    },
+    "capital": {
+      "en": [
+        "Tegucigalpa"
+      ],
+      "fr": [
+        "Tegucigalpa"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sv",
+    "country": {
+      "en": "El Salvador",
+      "fr": "El Salvador"
+    },
+    "capital": {
+      "en": [
+        "San Salvador"
+      ],
+      "fr": [
+        "San Salvador"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ni",
+    "country": {
+      "en": "Nicaragua",
+      "fr": "Nicaragua"
+    },
+    "capital": {
+      "en": [
+        "Managua"
+      ],
+      "fr": [
+        "Managua"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cr",
+    "country": {
+      "en": "Costa Rica",
+      "fr": "Costa Rica"
+    },
+    "capital": {
+      "en": [
+        "San José"
+      ],
+      "fr": [
+        "San José"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pa",
+    "country": {
+      "en": "Panama",
+      "fr": "Panama"
+    },
+    "capital": {
+      "en": [
+        "Panama City"
+      ],
+      "fr": [
+        "Panama City"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bz",
+    "country": {
+      "en": "Belize",
+      "fr": "Belize"
+    },
+    "capital": {
+      "en": [
+        "Belmopan"
+      ],
+      "fr": [
+        "Belmopan"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mx",
+    "country": {
+      "en": "Mexico",
+      "fr": "Mexique"
+    },
+    "capital": {
+      "en": [
+        "Mexico City"
+      ],
+      "fr": [
+        "Mexico"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  }
+]

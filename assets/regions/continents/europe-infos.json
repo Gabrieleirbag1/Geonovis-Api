@@ -1,0 +1,924 @@
+[
+  {
+    "flag": "ad",
+    "country": {
+      "en": "Andorra",
+      "fr": "Andorre"
+    },
+    "capital": {
+      "en": [
+        "Andorra la Vella"
+      ],
+      "fr": [
+        "Andorre-la-Vieille"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "al",
+    "country": {
+      "en": "Albania",
+      "fr": "Albanie"
+    },
+    "capital": {
+      "en": [
+        "Tirana"
+      ],
+      "fr": [
+        "Tirana"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "at",
+    "country": {
+      "en": "Austria",
+      "fr": "Autriche"
+    },
+    "capital": {
+      "en": [
+        "Vienna"
+      ],
+      "fr": [
+        "Vienne"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "by",
+    "country": {
+      "en": "Belarus",
+      "fr": "Biélorussie"
+    },
+    "capital": {
+      "en": [
+        "Minsk"
+      ],
+      "fr": [
+        "Minsk"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "be",
+    "country": {
+      "en": "Belgium",
+      "fr": "Belgique"
+    },
+    "capital": {
+      "en": [
+        "Brussels"
+      ],
+      "fr": [
+        "Bruxelles"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ba",
+    "country": {
+      "en": "Bosnia and Herzegovina",
+      "fr": "Bosnie-Herzégovine"
+    },
+    "capital": {
+      "en": [
+        "Sarajevo"
+      ],
+      "fr": [
+        "Sarajevo"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bg",
+    "country": {
+      "en": "Bulgaria",
+      "fr": "Bulgarie"
+    },
+    "capital": {
+      "en": [
+        "Sofia"
+      ],
+      "fr": [
+        "Sofia"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hr",
+    "country": {
+      "en": "Croatia",
+      "fr": "Croatie"
+    },
+    "capital": {
+      "en": [
+        "Zagreb"
+      ],
+      "fr": [
+        "Zagreb"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cy",
+    "country": {
+      "en": "Cyprus",
+      "fr": "Chypre"
+    },
+    "capital": {
+      "en": [
+        "Nicosia"
+      ],
+      "fr": [
+        "Nicosie"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cz",
+    "country": {
+      "en": "Czechia",
+      "fr": "République tchèque"
+    },
+    "capital": {
+      "en": [
+        "Prague"
+      ],
+      "fr": [
+        "Prague"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "dk",
+    "country": {
+      "en": "Denmark",
+      "fr": "Danemark"
+    },
+    "capital": {
+      "en": [
+        "Copenhagen"
+      ],
+      "fr": [
+        "Copenhague"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ee",
+    "country": {
+      "en": "Estonia",
+      "fr": "Estonie"
+    },
+    "capital": {
+      "en": [
+        "Tallinn"
+      ],
+      "fr": [
+        "Tallinn"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "fi",
+    "country": {
+      "en": "Finland",
+      "fr": "Finlande"
+    },
+    "capital": {
+      "en": [
+        "Helsinki"
+      ],
+      "fr": [
+        "Helsinki"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "fr",
+    "country": {
+      "en": "France",
+      "fr": "France"
+    },
+    "capital": {
+      "en": [
+        "Paris"
+      ],
+      "fr": [
+        "Paris"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "de",
+    "country": {
+      "en": "Germany",
+      "fr": "Allemagne"
+    },
+    "capital": {
+      "en": [
+        "Berlin"
+      ],
+      "fr": [
+        "Berlin"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gr",
+    "country": {
+      "en": "Greece",
+      "fr": "Grèce"
+    },
+    "capital": {
+      "en": [
+        "Athens"
+      ],
+      "fr": [
+        "Athènes"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "hu",
+    "country": {
+      "en": "Hungary",
+      "fr": "Hongrie"
+    },
+    "capital": {
+      "en": [
+        "Budapest"
+      ],
+      "fr": [
+        "Budapest"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "is",
+    "country": {
+      "en": "Iceland",
+      "fr": "Islande"
+    },
+    "capital": {
+      "en": [
+        "Reykjavík"
+      ],
+      "fr": [
+        "Reykjavík"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ie",
+    "country": {
+      "en": "Ireland",
+      "fr": "Irlande"
+    },
+    "capital": {
+      "en": [
+        "Dublin"
+      ],
+      "fr": [
+        "Dublin"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "it",
+    "country": {
+      "en": "Italy",
+      "fr": "Italie"
+    },
+    "capital": {
+      "en": [
+        "Rome"
+      ],
+      "fr": [
+        "Rome"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "xk",
+    "country": {
+      "en": "Kosovo",
+      "fr": "Kosovo"
+    },
+    "capital": {
+      "en": [
+        "Pristina"
+      ],
+      "fr": [
+        "Pristina"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lv",
+    "country": {
+      "en": "Latvia",
+      "fr": "Lettonie"
+    },
+    "capital": {
+      "en": [
+        "Riga"
+      ],
+      "fr": [
+        "Riga"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "li",
+    "country": {
+      "en": "Liechtenstein",
+      "fr": "Liechtenstein"
+    },
+    "capital": {
+      "en": [
+        "Vaduz"
+      ],
+      "fr": [
+        "Vaduz"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lt",
+    "country": {
+      "en": "Lithuania",
+      "fr": "Lituanie"
+    },
+    "capital": {
+      "en": [
+        "Vilnius"
+      ],
+      "fr": [
+        "Vilnius"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lu",
+    "country": {
+      "en": "Luxembourg",
+      "fr": "Luxembourg"
+    },
+    "capital": {
+      "en": [
+        "Luxembourg"
+      ],
+      "fr": [
+        "Luxembourg"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mk",
+    "country": {
+      "en": "North Macedonia",
+      "fr": "Macédoine du Nord"
+    },
+    "capital": {
+      "en": [
+        "Skopje"
+      ],
+      "fr": [
+        "Skopje"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mt",
+    "country": {
+      "en": "Malta",
+      "fr": "Malte"
+    },
+    "capital": {
+      "en": [
+        "Valletta"
+      ],
+      "fr": [
+        "La Valette"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "md",
+    "country": {
+      "en": "Moldova",
+      "fr": "Moldavie"
+    },
+    "capital": {
+      "en": [
+        "Chișinău"
+      ],
+      "fr": [
+        "Chișinău"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mc",
+    "country": {
+      "en": "Monaco",
+      "fr": "Monaco"
+    },
+    "capital": {
+      "en": [
+        "Monaco"
+      ],
+      "fr": [
+        "Monaco"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "me",
+    "country": {
+      "en": "Montenegro",
+      "fr": "Monténégro"
+    },
+    "capital": {
+      "en": [
+        "Podgorica"
+      ],
+      "fr": [
+        "Podgorica"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "nl",
+    "country": {
+      "en": "Netherlands",
+      "fr": "Pays-Bas"
+    },
+    "capital": {
+      "en": [
+        "Amsterdam",
+        "The Hague"
+      ],
+      "fr": [
+        "Amsterdam",
+        "La Haye"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "no",
+    "country": {
+      "en": "Norway",
+      "fr": "Norvège"
+    },
+    "capital": {
+      "en": [
+        "Oslo"
+      ],
+      "fr": [
+        "Oslo"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pl",
+    "country": {
+      "en": "Poland",
+      "fr": "Pologne"
+    },
+    "capital": {
+      "en": [
+        "Warsaw"
+      ],
+      "fr": [
+        "Varsovie"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "pt",
+    "country": {
+      "en": "Portugal",
+      "fr": "Portugal"
+    },
+    "capital": {
+      "en": [
+        "Lisbon"
+      ],
+      "fr": [
+        "Lisbonne"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ro",
+    "country": {
+      "en": "Romania",
+      "fr": "Roumanie"
+    },
+    "capital": {
+      "en": [
+        "Bucharest"
+      ],
+      "fr": [
+        "Bucarest"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ru",
+    "country": {
+      "en": "Russia",
+      "fr": "Russie"
+    },
+    "capital": {
+      "en": [
+        "Moscow"
+      ],
+      "fr": [
+        "Moscou"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sm",
+    "country": {
+      "en": "San Marino",
+      "fr": "Saint-Marin"
+    },
+    "capital": {
+      "en": [
+        "San Marino"
+      ],
+      "fr": [
+        "San Marino"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "rs",
+    "country": {
+      "en": "Serbia",
+      "fr": "Serbie"
+    },
+    "capital": {
+      "en": [
+        "Belgrade"
+      ],
+      "fr": [
+        "Belgrade"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sk",
+    "country": {
+      "en": "Slovakia",
+      "fr": "Slovaquie"
+    },
+    "capital": {
+      "en": [
+        "Bratislava"
+      ],
+      "fr": [
+        "Bratislava"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "si",
+    "country": {
+      "en": "Slovenia",
+      "fr": "Slovénie"
+    },
+    "capital": {
+      "en": [
+        "Ljubljana"
+      ],
+      "fr": [
+        "Ljubljana"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "es",
+    "country": {
+      "en": "Spain",
+      "fr": "Espagne"
+    },
+    "capital": {
+      "en": [
+        "Madrid"
+      ],
+      "fr": [
+        "Madrid"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "se",
+    "country": {
+      "en": "Sweden",
+      "fr": "Suède"
+    },
+    "capital": {
+      "en": [
+        "Stockholm"
+      ],
+      "fr": [
+        "Stockholm"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ch",
+    "country": {
+      "en": "Switzerland",
+      "fr": "Suisse"
+    },
+    "capital": {
+      "en": [
+        "Bern"
+      ],
+      "fr": [
+        "Berne"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ua",
+    "country": {
+      "en": "Ukraine",
+      "fr": "Ukraine"
+    },
+    "capital": {
+      "en": [
+        "Kyiv"
+      ],
+      "fr": [
+        "Kiev"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gb",
+    "country": {
+      "en": "United Kingdom",
+      "fr": "Royaume-Uni"
+    },
+    "capital": {
+      "en": [
+        "London"
+      ],
+      "fr": [
+        "Londres"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "va",
+    "country": {
+      "en": "Vatican City (Holy See)",
+      "fr": "Cité du Vatican"
+    },
+    "capital": {
+      "en": [
+        "Vatican City"
+      ],
+      "fr": [
+        "Cité du Vatican"
+      ]
+    },
+    "continent": {
+      "en": "Europe",
+      "fr": "Europe"
+    },
+    "immatriculate_plate": null
+  }
+]

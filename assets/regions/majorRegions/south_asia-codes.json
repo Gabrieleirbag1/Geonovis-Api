@@ -1,0 +1,50 @@
+{
+  "in": {
+    "code": "in",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "pk": {
+    "code": "pk",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bd": {
+    "code": "bd",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "lk": {
+    "code": "lk",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "np": {
+    "code": "np",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bt": {
+    "code": "bt",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mv": {
+    "code": "mv",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "af": {
+    "code": "af",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}

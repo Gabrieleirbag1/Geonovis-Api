@@ -1,0 +1,222 @@
+[
+  {
+    "flag": "th",
+    "country": {
+      "en": "Thailand",
+      "fr": "Thaïlande"
+    },
+    "capital": {
+      "en": [
+        "Bangkok"
+      ],
+      "fr": [
+        "Bangkok"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "vn",
+    "country": {
+      "en": "Vietnam",
+      "fr": "Viêt Nam"
+    },
+    "capital": {
+      "en": [
+        "Hanoi"
+      ],
+      "fr": [
+        "Hanoï"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "id",
+    "country": {
+      "en": "Indonesia",
+      "fr": "Indonésie"
+    },
+    "capital": {
+      "en": [
+        "Jakarta"
+      ],
+      "fr": [
+        "Jakarta"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "my",
+    "country": {
+      "en": "Malaysia",
+      "fr": "Malaisie"
+    },
+    "capital": {
+      "en": [
+        "Kuala Lumpur"
+      ],
+      "fr": [
+        "Kuala Lumpur"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ph",
+    "country": {
+      "en": "Philippines",
+      "fr": "Philippines"
+    },
+    "capital": {
+      "en": [
+        "Manila"
+      ],
+      "fr": [
+        "Manille"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "mm",
+    "country": {
+      "en": "Myanmar",
+      "fr": "Myanmar (Birmanie)"
+    },
+    "capital": {
+      "en": [
+        "Naypyidaw"
+      ],
+      "fr": [
+        "Naypyidaw"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "kh",
+    "country": {
+      "en": "Cambodia",
+      "fr": "Cambodge"
+    },
+    "capital": {
+      "en": [
+        "Phnom Penh"
+      ],
+      "fr": [
+        "Phnom Penh"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "la",
+    "country": {
+      "en": "Laos",
+      "fr": "Laos"
+    },
+    "capital": {
+      "en": [
+        "Vientiane"
+      ],
+      "fr": [
+        "Vientiane"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "sg",
+    "country": {
+      "en": "Singapore",
+      "fr": "Singapour"
+    },
+    "capital": {
+      "en": [
+        "Singapore"
+      ],
+      "fr": [
+        "Singapour"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tl",
+    "country": {
+      "en": "Timor-Leste",
+      "fr": "Timor-Leste"
+    },
+    "capital": {
+      "en": [
+        "Dili"
+      ],
+      "fr": [
+        "Dili"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bn",
+    "country": {
+      "en": "Brunei",
+      "fr": "Brunei"
+    },
+    "capital": {
+      "en": [
+        "Bandar Seri Begawan"
+      ],
+      "fr": [
+        "Bandar Seri Begawan"
+      ]
+    },
+    "continent": {
+      "en": "Asia",
+      "fr": "Asie"
+    },
+    "immatriculate_plate": null
+  }
+]

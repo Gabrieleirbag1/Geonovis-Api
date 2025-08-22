@@ -1,0 +1,222 @@
+[
+  {
+    "flag": "ht",
+    "country": {
+      "en": "Haiti",
+      "fr": "Haïti"
+    },
+    "capital": {
+      "en": [
+        "Port-au-Prince"
+      ],
+      "fr": [
+        "Port-au-Prince"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "do",
+    "country": {
+      "en": "Dominican Republic",
+      "fr": "République dominicaine"
+    },
+    "capital": {
+      "en": [
+        "Santo Domingo"
+      ],
+      "fr": [
+        "Santo Domingo"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "cu",
+    "country": {
+      "en": "Cuba",
+      "fr": "Cuba"
+    },
+    "capital": {
+      "en": [
+        "Havana"
+      ],
+      "fr": [
+        "La Havane"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "jm",
+    "country": {
+      "en": "Jamaica",
+      "fr": "Jamaïque"
+    },
+    "capital": {
+      "en": [
+        "Kingston"
+      ],
+      "fr": [
+        "Kingston"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "tt",
+    "country": {
+      "en": "Trinidad and Tobago",
+      "fr": "Trinité-et-Tobago"
+    },
+    "capital": {
+      "en": [
+        "Port of Spain"
+      ],
+      "fr": [
+        "Port of Spain"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "bb",
+    "country": {
+      "en": "Barbados",
+      "fr": "Barbade"
+    },
+    "capital": {
+      "en": [
+        "Bridgetown"
+      ],
+      "fr": [
+        "Bridgetown"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "lc",
+    "country": {
+      "en": "Saint Lucia",
+      "fr": "Sainte-Lucie"
+    },
+    "capital": {
+      "en": [
+        "Castries"
+      ],
+      "fr": [
+        "Castries"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "vc",
+    "country": {
+      "en": "Saint Vincent and the Grenadines",
+      "fr": "Saint-Vincent-et-les-Grenadines"
+    },
+    "capital": {
+      "en": [
+        "Kingstown"
+      ],
+      "fr": [
+        "Kingstown"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "ag",
+    "country": {
+      "en": "Antigua and Barbuda",
+      "fr": "Antigua-et-Barbuda"
+    },
+    "capital": {
+      "en": [
+        "St. John's"
+      ],
+      "fr": [
+        "St. John's"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "dm",
+    "country": {
+      "en": "Dominica",
+      "fr": "Dominique"
+    },
+    "capital": {
+      "en": [
+        "Roseau"
+      ],
+      "fr": [
+        "Roseau"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  },
+  {
+    "flag": "gd",
+    "country": {
+      "en": "Grenada",
+      "fr": "Grenade"
+    },
+    "capital": {
+      "en": [
+        "St. George's"
+      ],
+      "fr": [
+        "St. George's"
+      ]
+    },
+    "continent": {
+      "en": "North America",
+      "fr": "Amérique du Nord"
+    },
+    "immatriculate_plate": null
+  }
+]

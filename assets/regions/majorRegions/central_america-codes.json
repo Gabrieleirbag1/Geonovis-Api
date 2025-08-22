@@ -1,0 +1,50 @@
+{
+  "gt": {
+    "code": "gt",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "hn": {
+    "code": "hn",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "sv": {
+    "code": "sv",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "ni": {
+    "code": "ni",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "cr": {
+    "code": "cr",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "pa": {
+    "code": "pa",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "bz": {
+    "code": "bz",
+    "found": null,
+    "turn": false,
+    "selected": false
+  },
+  "mx": {
+    "code": "mx",
+    "found": null,
+    "turn": false,
+    "selected": false
+  }
+}
