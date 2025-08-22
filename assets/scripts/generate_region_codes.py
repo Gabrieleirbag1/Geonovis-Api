@@ -35,7 +35,7 @@ def process_directory(directory, world_codes):
         # Generate the corresponding codes file name
         basename = os.path.basename(info_file)
         region_name = basename.replace("-infos.json", "")
-        codes_file = os.path.join(os.path.dirname(info_file), f"{region_name}-codes.json")
+        codes_file = os.path.join(os.path.dirname(info_file), '..', 'geocodes', f"{region_name}-codes.json")
         
         # Load the region info file to get country codes
         with open(info_file, "r", encoding="utf-8") as f:
