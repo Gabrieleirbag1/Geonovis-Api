@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
-# filepath: /home/gab/Geonovis-Api/src/utils/geocode_service.py
 import json
-import os
 from pathlib import Path
-import logging
-
-logger = logging.getLogger(__name__)
+from lite_logging.lite_logging import log
 
 def merge_geocode_objects(geocode_objects):
     """
@@ -44,13 +40,13 @@ def read_geocode_for_region(region, base_path):
         with open(file_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
-        logger.error(f"Error reading geocode file for {region}: File not found")
+        log(f"Error reading geocode file for {region}: File not found", level="ERROR")
         return {}
     except json.JSONDecodeError as e:
-        logger.error(f"Error parsing geocode file for {region}: {str(e)}")
+        log(f"Error parsing geocode file for {region}: {str(e)}", level="ERROR")
         return {}
     except Exception as e:
-        logger.error(f"Error reading geocode file for {region}: {str(e)}")
+        log(f"Error reading geocode file for {region}: {str(e)}", level="ERROR")
         return {}
 
 def get_merged_geocodes(regions, base_path):

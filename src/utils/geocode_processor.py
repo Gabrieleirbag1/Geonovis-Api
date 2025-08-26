@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
-# filepath: /home/gab/Geonovis-Api/src/utils/geocode_processor.py
 import json
-import os
 from pathlib import Path
-import logging
-
-logger = logging.getLogger(__name__)
+from lite_logging.lite_logging import log
 
 def merge_and_deduplicate_geocodes(geocode_arrays, unique_key='iso'):
     """
@@ -56,13 +52,13 @@ def read_and_merge_geocode_files(regions, base_path):
                 geocodes = json.load(f)
                 geocode_arrays.append(geocodes)
         except FileNotFoundError:
-            logger.warning(f"Warning: Could not read geocode file for {region}: File not found")
+            log(f"Warning: Could not read geocode file for {region}: File not found", level="WARNING")
             geocode_arrays.append([])
         except json.JSONDecodeError as e:
-            logger.error(f"Error parsing geocode file for {region}: {str(e)}")
+            log(f"Error parsing geocode file for {region}: {str(e)}", level="ERROR")
             geocode_arrays.append([])
         except Exception as e:
-            logger.error(f"Error reading geocode file for {region}: {str(e)}")
+            log(f"Error reading geocode file for {region}: {str(e)}", level="ERROR")
             geocode_arrays.append([])
     
     return merge_and_deduplicate_geocodes(geocode_arrays)
