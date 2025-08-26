@@ -14,11 +14,18 @@ CORS(app)  # Enable CORS for all routes
 PORT = 3111
 
 @app.route('/')
-def home():
+def home() -> Response:
+    """Home route."""
     return 'Welcome to the Geonovis API!'
 
 @app.route('/api/geojson/<region>')
 def get_geojson(region: str) -> Response:
+    """
+    Get GeoJSON data for a specific region.
+
+    Returns:
+        Response: GeoJSON response for the specified region or error message.
+    """
     file_path: Path = Path(__file__).parent.parent / 'assets' / 'geojson' / region / f"{region}.geo.json"
 
     if not file_path.exists():
@@ -38,6 +45,11 @@ def get_geojson(region: str) -> Response:
 
 @app.route('/api/geocodes')
 def get_geocodes() -> Response:
+    """Get merged geocodes for specified regions.
+
+    Returns:
+        Response: JSON response containing merged geocodes or error message.
+    """
     regions: list[str] = request.args.get('regions')
     if not regions:
         return jsonify({
