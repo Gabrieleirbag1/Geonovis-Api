@@ -81,7 +81,7 @@ def encode_session() -> Response:
         Response: JSON response containing encoded data or error message.
     """
     data = request.json
-    log(f"Received session data for encoding", level="DEBUG")
+    log(f"Received session data for encoding: {data}", level="DEBUG")
     
     if not data:
         return jsonify({
@@ -107,16 +107,16 @@ def decode_session() -> Response:
         Response: JSON response containing decoded data or error message.
     """
     data = request.json
-    log(f"Received session data for decoding", level="DEBUG")
+    log(f"Received session data for decoding: {data}", level="DEBUG")
     
-    if not data or 'content' not in data:
+    if not data:
         return jsonify({
             'success': False,
             'error': 'No encoded content provided'
         }), 400
-    
-    result = SessionCodec.decode(data['content'])
-    
+
+    result = SessionCodec.decode(data["sessionData"])
+
     if result["success"]:
         log(f"Successfully decoded session data", level="INFO")
         return jsonify(result)
