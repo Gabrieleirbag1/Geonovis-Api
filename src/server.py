@@ -71,6 +71,21 @@ def get_geocodes() -> Response:
             'details': str(e)
         }), 500
 
+@app.route('/api/session/conversion', methods=['POST'])
+def convert_session() -> Response:
+    """
+    Convert session data.
+    """
+    data = request.json
+    log(f"Received session data: {data}", level="DEBUG")
+    if not data:
+        return jsonify({
+            'error': 'Invalid input',
+            'details': 'No data provided'
+        }), 400
+    return jsonify(data)
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=PORT, debug=True)
     print(f"Server is running on http://localhost:{PORT}")
