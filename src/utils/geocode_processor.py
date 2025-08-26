@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from lite_logging.lite_logging import log
 
-def merge_and_deduplicate_geocodes(geocode_arrays, unique_key='iso'):
+def merge_and_deduplicate_geocodes(geocode_arrays: list[list[dict]], unique_key: str = 'iso') -> list[dict]:
     """
     Merges geocode arrays and removes duplicates.
     
@@ -31,7 +31,7 @@ def merge_and_deduplicate_geocodes(geocode_arrays, unique_key='iso'):
     
     return list(unique_map.values())
 
-def read_and_merge_geocode_files(regions, base_path):
+def read_and_merge_geocode_files(regions: list[str], base_path: str) -> list[dict]:
     """
     Reads geocode files for multiple regions.
     

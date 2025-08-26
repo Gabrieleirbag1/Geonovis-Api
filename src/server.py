@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from flask import Flask, jsonify, request, send_file
+from flask import Flask, jsonify, request, send_file, Response
 from flask_cors import CORS  # Add this import
 import sys
 from pathlib import Path
@@ -18,10 +18,9 @@ def home():
     return 'Welcome to the Geonovis API!'
 
 @app.route('/api/geojson/<region>')
-def get_geojson(region):
-    print(f"Requested region: {region}")
-    file_path = Path(__file__).parent.parent / 'assets' / 'geojson' / region / f"{region}.geo.json"
-    
+def get_geojson(region: str) -> Response:
+    file_path: Path = Path(__file__).parent.parent / 'assets' / 'geojson' / region / f"{region}.geo.json"
+
     if not file_path.exists():
         log("File not found", level="ERROR")
         return jsonify({
@@ -30,7 +29,7 @@ def get_geojson(region):
         }), 404
     
     try:
-        response = send_file(file_path, mimetype='application/json')
+        response: Response = send_file(file_path, mimetype='application/json')
         log(f"Served geojson for region: {region}", level="INFO")
         return response
     except Exception as e:
@@ -38,8 +37,8 @@ def get_geojson(region):
         return '', 500
 
 @app.route('/api/geocodes')
-def get_geocodes():
-    regions = request.args.get('regions')
+def get_geocodes() -> Response:
+    regions: list[str] = request.args.get('regions')
     if not regions:
         return jsonify({
             'error': 'Missing regions parameter',

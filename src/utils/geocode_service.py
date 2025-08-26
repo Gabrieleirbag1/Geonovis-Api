@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from lite_logging.lite_logging import log
 
-def merge_geocode_objects(geocode_objects):
+def merge_geocode_objects(geocode_objects: list[dict]) -> dict:
     """
     Merges multiple geocode objects into a single object with unique keys.
     
@@ -23,7 +23,7 @@ def merge_geocode_objects(geocode_objects):
     
     return merged_geocode
 
-def read_geocode_for_region(region, base_path):
+def read_geocode_for_region(region: str, base_path: str) -> dict:
     """
     Reads the geocode file for a single region.
     
@@ -49,7 +49,7 @@ def read_geocode_for_region(region, base_path):
         log(f"Error reading geocode file for {region}: {str(e)}", level="ERROR")
         return {}
 
-def get_merged_geocodes(regions, base_path):
+def get_merged_geocodes(regions: list[str], base_path: str) -> dict:
     """
     Returns merged geocodes for the given regions, with unique country codes as keys.
     
