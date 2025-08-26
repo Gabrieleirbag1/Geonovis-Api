@@ -8,6 +8,7 @@ from lite_logging.lite_logging import log
 # Add the src directory to the path so we can import our modules
 sys.path.append(str(Path(__file__).parent))
 from utils.geocode_service import get_merged_geocodes
+from utils.session_codec import SessionCodec
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -71,20 +72,57 @@ def get_geocodes() -> Response:
             'details': str(e)
         }), 500
 
-@app.route('/api/session/conversion', methods=['POST'])
-def convert_session() -> Response:
+@app.route('/api/session/encode', methods=['POST'])
+def encode_session() -> Response:
     """
-    Convert session data.
+    Convert session data using MessagePack + Brotli + Base85 + Base64URL encoding.
+    
+    Returns:
+        Response: JSON response containing encoded data or error message.
     """
     data = request.json
-    log(f"Received session data: {data}", level="DEBUG")
+    log(f"Received session data for encoding", level="DEBUG")
+    
     if not data:
         return jsonify({
-            'error': 'Invalid input',
-            'details': 'No data provided'
+            'success': False,
+            'error': 'No data provided'
         }), 400
-    return jsonify(data)
+    
+    result = SessionCodec.encode(data)
+    
+    if result["success"]:
+        log(f"Successfully encoded session data", level="INFO")
+        return jsonify(result)
+    else:
+        log(f"Failed to encode session data: {result['error']}", level="ERROR")
+        return jsonify(result), 400
 
+@app.route('/api/session/decode', methods=['POST'])
+def decode_session() -> Response:
+    """
+    Decode session data from MessagePack + Brotli + Base85 + Base64URL format.
+    
+    Returns:
+        Response: JSON response containing decoded data or error message.
+    """
+    data = request.json
+    log(f"Received session data for decoding", level="DEBUG")
+    
+    if not data or 'content' not in data:
+        return jsonify({
+            'success': False,
+            'error': 'No encoded content provided'
+        }), 400
+    
+    result = SessionCodec.decode(data['content'])
+    
+    if result["success"]:
+        log(f"Successfully decoded session data", level="INFO")
+        return jsonify(result)
+    else:
+        log(f"Failed to decode session data: {result['error']}", level="ERROR")
+        return jsonify(result), 400
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=PORT, debug=True)
