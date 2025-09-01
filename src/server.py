@@ -70,7 +70,34 @@ def get_geocodes() -> Response:
         return jsonify({
             'error': 'Failed to process geocodes',
             'details': str(e)
-        }), 500
+        }, 500
+
+@app.route('/api/geocodes')
+def get_geocodes() -> Response:
+    """Get merged geocodes for specified regions.
+
+    Returns:
+        Response: JSON response containing merged geocodes or error message.
+    """
+    return jsonify(get_unique_codes())
+
+@app.route('/api/geocodes/count')
+def get_geocodes_count() -> Response:
+    """Get count of unique geocodes for specified regions.
+
+    Returns:
+        Response: JSON response containing count of unique geocodes or error message.
+    """
+    response = get_unique_codes()
+    try:
+        if "error" in response[0]:
+            return jsonify(response)
+    except KeyError:
+        pass
+    count = len(response)
+    log(f"Counted {count} unique geocodes", level="INFO")
+    
+    return jsonify({'count': count})
 
 @app.route('/api/session/encode', methods=['POST'])
 def encode_session() -> Response:
