@@ -43,20 +43,14 @@ def get_geojson(region: str) -> Response:
     except Exception as e:
         log(f"Error sending file: {str(e)}", level="ERROR")
         return '', 500
-
-@app.route('/api/geocodes')
-def get_geocodes() -> Response:
-    """Get merged geocodes for specified regions.
-
-    Returns:
-        Response: JSON response containing merged geocodes or error message.
-    """
+    
+def get_unique_codes() -> dict:
     regions: list[str] = request.args.get('regions')
     if not regions:
-        return jsonify({
+        return {
             'error': 'Missing regions parameter',
             'details': 'Please provide a regions parameter with a comma-separated list of region names'
-        }), 400
+        }, 400
     
     region_list = [region.strip() for region in regions.split(',')]
     geocodes_base_path = Path(__file__).parent.parent / 'assets' / 'geocodes'
@@ -64,10 +58,10 @@ def get_geocodes() -> Response:
     try:
         unique_geocodes = get_merged_geocodes(region_list, str(geocodes_base_path))
         log(f"Served geocodes for regions: {region_list}", level="INFO")
-        return jsonify(unique_geocodes)
+        return unique_geocodes
     except Exception as e:
         log(f"Error processing geocodes: {str(e)}", level="ERROR")
-        return jsonify({
+        return {
             'error': 'Failed to process geocodes',
             'details': str(e)
         }, 500
