@@ -19,6 +19,29 @@ def home() -> Response:
     """Home route."""
     return 'Welcome to the Geonovis API!'
 
+@app.route('/api/images/<image_type>/<image_name>')
+def get_image(image_type: str, image_name: str) -> Response:
+    """
+    Get image data for a specific image.
+    """
+    file_path: Path = Path(__file__).parent.parent / 'assets' / 'images' / image_type / image_name
+    extension = file_path.suffix.lower()
+    
+    if not file_path.exists():
+        log("File not found", level="ERROR")
+        return jsonify({
+            'error': 'Image not found',
+            'details': f"Could not find {image_name} in assets/images/{image_type}/"
+        }), 404
+    
+    try:
+        response: Response = send_file(file_path, mimetype=f'image/{extension}')
+        log(f"Served image: {image_name} of type: {image_type}", level="INFO")
+        return response
+    except Exception as e:
+        log(f"Error sending file: {str(e)}", level="ERROR")
+        return '', 500
+
 @app.route('/api/geojson/<region>')
 def get_geojson(region: str) -> Response:
     """
