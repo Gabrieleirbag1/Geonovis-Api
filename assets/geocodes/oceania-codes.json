@@ -3,90 +3,90 @@
     "code": "au",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "fj": {
     "code": "fj",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ki": {
     "code": "ki",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "mh": {
     "code": "mh",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "fm": {
     "code": "fm",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "nr": {
     "code": "nr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "nz": {
     "code": "nz",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "pw": {
     "code": "pw",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "pg": {
     "code": "pg",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ws": {
     "code": "ws",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "sb": {
     "code": "sb",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tk": {
     "code": "tk",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "to": {
     "code": "to",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tv": {
     "code": "tv",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "vu": {
     "code": "vu",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }

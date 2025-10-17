@@ -3,96 +3,96 @@
     "code": "sa",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ir": {
     "code": "ir",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "iq": {
     "code": "iq",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "sy": {
     "code": "sy",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "jo": {
     "code": "jo",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "lb": {
     "code": "lb",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "il": {
     "code": "il",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ps": {
     "code": "ps",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tr": {
     "code": "tr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "eg": {
     "code": "eg",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ae": {
     "code": "ae",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "qa": {
     "code": "qa",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "om": {
     "code": "om",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ye": {
     "code": "ye",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "kw": {
     "code": "kw",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "bh": {
     "code": "bh",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }

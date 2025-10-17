@@ -3,54 +3,54 @@
     "code": "mr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ml": {
     "code": "ml",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ne": {
     "code": "ne",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "td": {
     "code": "td",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "sd": {
     "code": "sd",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "bf": {
     "code": "bf",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "sn": {
     "code": "sn",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ng": {
     "code": "ng",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "er": {
     "code": "er",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }

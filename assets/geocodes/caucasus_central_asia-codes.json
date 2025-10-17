@@ -3,60 +3,60 @@
     "code": "ge",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "am": {
     "code": "am",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "az": {
     "code": "az",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "kz": {
     "code": "kz",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "uz": {
     "code": "uz",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tm": {
     "code": "tm",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "kg": {
     "code": "kg",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tj": {
     "code": "tj",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ru": {
     "code": "ru",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tr": {
     "code": "tr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }

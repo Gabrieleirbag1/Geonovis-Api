@@ -3,72 +3,72 @@
     "code": "rs",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "hr": {
     "code": "hr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ba": {
     "code": "ba",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "me": {
     "code": "me",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "al": {
     "code": "al",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "mk": {
     "code": "mk",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "xk": {
     "code": "xk",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "bg": {
     "code": "bg",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "gr": {
     "code": "gr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "si": {
     "code": "si",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ro": {
     "code": "ro",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tr": {
     "code": "tr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }

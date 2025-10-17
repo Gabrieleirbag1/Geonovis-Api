@@ -3,66 +3,66 @@
     "code": "ht",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "do": {
     "code": "do",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "cu": {
     "code": "cu",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "jm": {
     "code": "jm",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "tt": {
     "code": "tt",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "bb": {
     "code": "bb",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "lc": {
     "code": "lc",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "vc": {
     "code": "vc",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ag": {
     "code": "ag",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "dm": {
     "code": "dm",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "gd": {
     "code": "gd",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }

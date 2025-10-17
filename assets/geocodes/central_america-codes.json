@@ -3,48 +3,48 @@
     "code": "gt",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "hn": {
     "code": "hn",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "sv": {
     "code": "sv",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "ni": {
     "code": "ni",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "cr": {
     "code": "cr",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "pa": {
     "code": "pa",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "bz": {
     "code": "bz",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   },
   "mx": {
     "code": "mx",
     "found": null,
     "turn": false,
-    "selected": false
+    "selected": false, "right": false
   }
 }
