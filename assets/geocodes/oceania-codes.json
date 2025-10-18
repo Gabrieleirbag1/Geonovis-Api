@@ -3,90 +3,105 @@
     "code": "au",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "fj": {
     "code": "fj",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "ki": {
     "code": "ki",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "mh": {
     "code": "mh",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "fm": {
     "code": "fm",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "nr": {
     "code": "nr",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "nz": {
     "code": "nz",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "pw": {
     "code": "pw",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "pg": {
     "code": "pg",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "ws": {
     "code": "ws",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "sb": {
     "code": "sb",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "tk": {
     "code": "tk",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "to": {
     "code": "to",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "tv": {
     "code": "tv",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "vu": {
     "code": "vu",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   }
 }

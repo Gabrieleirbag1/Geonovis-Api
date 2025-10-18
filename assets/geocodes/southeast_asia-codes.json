@@ -3,66 +3,77 @@
     "code": "th",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "vn": {
     "code": "vn",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "id": {
     "code": "id",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "my": {
     "code": "my",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "ph": {
     "code": "ph",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "mm": {
     "code": "mm",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "kh": {
     "code": "kh",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "la": {
     "code": "la",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "sg": {
     "code": "sg",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "tl": {
     "code": "tl",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "bn": {
     "code": "bn",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   }
 }

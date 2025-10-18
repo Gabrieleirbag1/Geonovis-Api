@@ -3,60 +3,70 @@
     "code": "ge",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "am": {
     "code": "am",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "az": {
     "code": "az",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "kz": {
     "code": "kz",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "uz": {
     "code": "uz",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "tm": {
     "code": "tm",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "kg": {
     "code": "kg",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "tj": {
     "code": "tj",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "ru": {
     "code": "ru",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "tr": {
     "code": "tr",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   }
 }

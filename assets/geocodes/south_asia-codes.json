@@ -3,48 +3,56 @@
     "code": "in",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "pk": {
     "code": "pk",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "bd": {
     "code": "bd",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "lk": {
     "code": "lk",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "np": {
     "code": "np",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "bt": {
     "code": "bt",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "mv": {
     "code": "mv",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   },
   "af": {
     "code": "af",
     "found": null,
     "turn": false,
-    "selected": false, "right": false
+    "selected": false, 
+    "score": null
   }
 }

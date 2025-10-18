@@ -60,7 +60,7 @@ def process_directory(directory, world_codes):
                     "found": None,
                     "turn": False,
                     "selected": False, 
-                    "right": False
+                    "score": None
                 }
             else:
                 print(f"Warning: Country code {country_code} not found in world-codes.json")
