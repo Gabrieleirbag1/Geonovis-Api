@@ -14,7 +14,7 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 PORT = 3111
 
-@app.route('/')
+@app.route('/api')
 def home() -> Response:
     """Home route."""
     return 'Welcome to the Geonovis API!'
