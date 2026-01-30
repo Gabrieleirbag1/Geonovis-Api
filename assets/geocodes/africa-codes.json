@@ -90,6 +90,13 @@
     "selected": false, 
     "score": null
   },
+  "ci": {
+    "code": "ci",
+    "found": null,
+    "turn": false,
+    "selected": false, 
+    "score": null
+  },
   "dj": {
     "code": "dj",
     "found": null,

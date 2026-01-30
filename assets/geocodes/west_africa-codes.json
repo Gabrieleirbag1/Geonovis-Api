@@ -20,6 +20,13 @@
     "selected": false, 
     "score": null
   },
+  "ci": {
+    "code": "ci",
+    "found": null,
+    "turn": false,
+    "selected": false, 
+    "score": null
+  },
   "gn": {
     "code": "gn",
     "found": null,
@@ -29,6 +36,13 @@
   },
   "gh": {
     "code": "gh",
+    "found": null,
+    "turn": false,
+    "selected": false, 
+    "score": null
+  },
+  "gw": {
+    "code": "gw",
     "found": null,
     "turn": false,
     "selected": false, 
